@@ -1,0 +1,50 @@
+id: financial-aid-cost-of-attendance
+title: Financial Aid: Cost of Attendance
+source: https://www.beloit.edu/offices/financial-aid/cost-of-attendance/
+kind: html
+retrieved: 2026-10-27
+------------------------------------------------------------
+Related Links
+Cost of Attendance
+The costs below represent the direct and indirect expenses associated with attending Beloit College for one academic year. 98% of our applicants are eligible for financial assistance to help lower these costs. Be sure to review the types of financial assistance available at Beloit College and how to apply. Please also check out our Net Price Calculator tool to see how much Beloit College would cost after financial aid is applied to the costs below.
+Costs for the 2027-28 Academic Year
+Direct Costs
+| Item | Cost |
+|---|---|
+| Tuition | $65,578 |
+| Student Activity Fee | $280 |
+| Housing (double occupancy) | $7,158 |
+| Food (full meal plan-required the first year) | $7,262 |
+| Health/Wellness Fees | $264 |
+| Total Direct Costs | $80,542 |
+Details about meal plan and housing pricing is available below.
+Additional Fees
+| Item | Cost |
+|---|---|
+| Health Insurance* | $2,900 |
+| Books, Course Materials, Supplies, and Equipment (estimate) | $1,222 |
+| Personal Expenses (estimate) | $1,738 |
+| Total Indirect Costs | $5,860 |
+* All international students must purchase the College’s health insurance plan; domestic students may opt out with proof of comparable coverage.
+Students should also prepare to experience transportation expenses ranging anywhere from $300 to $2,600/yr, depending on their proximity to the campus.
+Average costs after financial aid
+We invest in you. The figures provided below represent the average financial aid offer and net cost by family income for domestic students. These figures include the loans that were offered.
+| Family Income | Average Financial Aid, including loans | Average cost after all types of aid, including loans |
+|---|---|---|
+| $0-$54,999 | $63,549 | $4,403 |
+| $55,000 - $94,999 | $57,331 | $10,918 |
+| $95,000 - $149,999 | $52,350 | $15,762 |
+| $150,000+ | $46,367 | $21,673 |
+Data is from 2025. Excluded from this data are families with assets (not income) that exceed $80,000, independent students, students who receive tuition benefits from a parent’s employer, and students who do not file a FAFSA. The amount of loans offered to each student who completes the FAFSA varies from $5,500/yr-$8,500/yr.
+Meal Plans & Housing
+All students are required to have a meal plan for their first six semesters. Starting their 7th semester, students may opt out of having a meal plan.
+New students are required to have the Blue Meal Plan for their first year. Students with sophomore standing or above may choose the Gold Meal Plan.
+Meal Plan Costs
+| Tier | Options | Cost |
+|---|---|---|
+| Blue Meal Plan | | $3,631 per semester |
+| Gold Meal Plan | | $2,726 per semester |
+Housing Costs
+| Options | Cost |
+| Double Room Rate | $3,579 per semester |
+| Single Room Rate | $3,995 per semester |

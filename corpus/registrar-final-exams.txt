@@ -1,0 +1,42 @@
+id: registrar-final-exams
+title: Registrar: Final Exam Schedules and End of Term Assignments
+source: https://www.beloit.edu/offices/registrar/academic-calendars/final-exams/
+kind: html
+retrieved: 2026-10-27
+------------------------------------------------------------
+Related Links
+Final Exams
+Final exam schedules and end of term assignments policy.
+Final Exam Schedules
+Fall 2026 courses
+| Exam Date | 9-noon | 2-5 pm | 7-10 pm |
+| Monday, December 7 | TR 8:30-9:45am TR 8:00-9:50am TR 8:45-11:45am | TR 2:00-3:15pm TR 2:00-3:50pm | MW 7:15-9:00pm MW 7:15-10:30pm |
+| Tuesday, December 8 | MWF 10:00-11:00am MWF 10:15-12:05pm | MWF 1:35-2:35pm MWF 1:45-3:35pm MWF 1:00-3:50pm | No Exams |
+| Wednesday, December 9 | TR 10:00-11:45am | MWF 2:50-3:50pm | MWF 11:15-12:15pm |
+| Thursday, December 10 | MWF 8:45-9:45am MWF 8:00-9:50am MWF 8:45-11:45am | TR 12:25-1:45pm TR 12:00-1:45pm TR 1:00-3:50pm | No Exams |
+Spring 2027 courses
+| Exam Date | 9-noon | 2-5 pm | 7-10 pm |
+| Friday, April 30 | MWF 8:45-9:45am MWF 8:00-9:50am MWF 8:45-11:45am | TR 12:25-1:45pm TR 12:00-1:45pm TR 1:00-3:50pm | TR 8:30-9:45am TR 8:00-9:50am TR 8:45-11:45am |
+| Saturday, May 1 | MWF 11:15-12:15pm | TR 2:00-3:15pm TR 2:00-3:50pm | No Exams |
+| Monday, May 3 | MWF 10:00-11:00am MWF 10:15-12:05pm | MWF 1:35-2:35pm MWF 1:45-3:35pm MWF 1:00-3:50pm | MW 7:15-9:00pm MW 7:15-10:30pm |
+| Tuesday, May 4 | TR 10:00-11:45am | MWF 2:50-3:50pm | No Exams |
+End of Term Assignments/Exams Policy
+- End of term assignments and exams shall be distributed in such a way as to avoid unreasonable workloads for students. Work due during the final three days of classes and the final exam period shall not count for more than 40% of a student’s final grade for the course, excepting independent research courses and special projects.
+- There will be four examination days following the end of each term. Schedules normally will be designed so that the last day of classes is followed by two study days, not necessarily in succession. No assignments can be due, no activities required, nor exams given on study days.
+- At the first class meeting, instructors should announce plans regarding final evaluation for the course.
+- If there is only one major end of the term assignment or exam, and it is an exam, the final examination slot must be utilized.
+- “Major” refers to an assignment or exam that is worth at least 20% of the final grade in the course.
+- Examinations given during the final examination period normally will be designed for completion in two hours, and must be completed within three hours.
+- Take-home examinations must be turned in by the end of the 3-hour examination slot assigned to the course for which the take-home examination is written.
+- If there is only one major end of the term assignment or exam, and it is an assignment (e.g.: paper, performance, group presentation), the assignment must be due by the last day of classes or during the final examination slot assigned.
+- “Major” refers to an assignment or exam that is worth at least 20% of the final grade in the course.
+- If there are two major end of term assignments or exams, then only one can be due during the last three days of classes. The final examination slot should be utilized for the other assignment or exam.
+- “Major” refers to an assignment or exam that is worth at least 20% of the final grade in the course.
+- Exam slots will be rotated each semester among the course time blocks. The schedule will be listed in the registration materials.
+- The four examination days of the final examination period will have a total of twelve three-hour blocks of time available for examinations.
+- All work for first module courses must be completed by the conclusion of the first module.
+- Students will take examinations at scheduled times, except in the following cases. If students qualify for an exception listed below, they must bring requests for such to the Registrar prior to the beginning of exam week.
+- more than two examinations in one day;
+- four examinations in a row;
+- hardship, such as illness, psychological disturbance, and the like, as confirmed by the Dean of Students Office.
+- Students wishing to address possible lack of compliance with the policy should first discuss the matter with the course instructor. If the student and the instructor are unable to reach a satisfactory resolution, the student may approach the chair of the instructor’s department, and ultimately the Dean of the College.

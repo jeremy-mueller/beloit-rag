@@ -1,0 +1,38 @@
+id: registrar-transcripts-diplomas
+title: Registrar: Transcripts, Diplomas, and Verification Letters
+source: https://www.beloit.edu/offices/registrar/transcripts-diplomas-verification-letters/
+kind: html
+retrieved: 2026-10-27
+------------------------------------------------------------
+Related Links
+Transcripts, Diplomas, & Verification Letters
+Ordering Transcripts
+Permanent records are confidential between the student and the College. A student may request transcripts of their permanent academic records at any time; however, transcripts will not be released without the student’s authorizing signature.
+Requests for transcripts must be made through the National Student Clearinghouse online order form using a credit card. Beloit College charges $5 per transcript, and the National Student Clearinghouse adds additional charges based on the type of the request.
+Transcript Delivery
+Please allow 5-7 business days for the processing of your request.
+Current students may create a pdf of their unofficial transcript from My Beloit. Here are the steps:
+- Click on the “Academics” button from the ribbon at the top of My Beloit.
+- Click on “Grades” entry in the box on the left.
+- Click on the “View Unofficial Transcript” line under the “Unofficial Transcript” heading.
+- Click on the printer icon on the right side of the “Grades” line.
+- Set the print destination to “Save to PDF” and click the “Save” button.
+- Navigate to the folder where the file should be saved and name the file appropriately. Click on the “Save” button to save the file.
+Alumni may order an official transcript for unofficial uses.
+To order a replacement diploma via electronic payment, please complete the Nelnet Request Form. There is a fee of $15 per diploma. Additional fees apply for credit cards and expedited service. Diplomas are provided in virtual and paper format; all orders include both. Processing and printing takes about 30 days.
+To order a replacement diploma via check or money order, please download and complete the Duplicate Diploma Request . There is a fee of $15 per diploma, and payment must be made by check or money order payable to Beloit College. Requests take approximately 4 - 5 weeks to complete. Additional fees for expedited service are outlined on the request form.
+Mail completed request with check or money order to:
+Office of the Registrar
+Beloit College
+700 College St
+Beloit, WI 53511
+
+The Registrar’s Office issues verification for loan deferment, good student discount, etc. Students may stop by the office to request a status letter and should bring in any necessary forms provided by the requestor.
+Students may also submit requests for a verification of enrollment via email to registrar@beloit.edu.
+Beloit College has authorized the National Student Clearinghouse to provide enrollment and degree verifications. If you are an employer or background screening firm requesting this information, please contact the National Student Clearinghouse at:
+Phone: 703-742-4200
+Fax: 703-742-4239
+E-mail: degreeverify@studentclearinghouse.org
+Mail: National Student Clearinghouse
+13454 Sunrise Valley Drive, Suite 300
+Herndon, VA 20171
