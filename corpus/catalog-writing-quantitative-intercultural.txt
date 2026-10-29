@@ -2,8 +2,9 @@ id: catalog-writing-quantitative-intercultural
 title: Catalog: Writing Quantitative Reasoning and Intercultural Requirements
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 7-9
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 7]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Social Analysis of Human Behavior
@@ -51,6 +52,7 @@ and outcomes.
 TABLE OF CONTENTS
 7
 
+[page 8]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Quantitative Reasoning
@@ -101,6 +103,7 @@ the preparation and refection activities required by GEO in order to qualify for
 TABLE OF CONTENTS
 8
 
+[page 9]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Synthesis of Multiple Experiences

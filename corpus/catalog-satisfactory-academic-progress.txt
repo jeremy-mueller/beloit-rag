@@ -2,8 +2,9 @@ id: catalog-satisfactory-academic-progress
 title: Catalog: Satisfactory Academic Progress for Financial Aid
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 215-216
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 215]
 2025-2027 BELOIT COLLEGE CATALOG
 Work Study
 Many work study employment opportunities exist for students on campus. All Beloit College students
@@ -53,6 +54,7 @@ Must maintain 2.0 GPA or higher.
 TABLE OF CONTENTS
 215
 
+[page 216]
 BELOIT COLLEGE CATALOG 2025-2027
 Completion Rate
 Must successfully complete and earn credit for 67% or more of the units in which the student enrolls.

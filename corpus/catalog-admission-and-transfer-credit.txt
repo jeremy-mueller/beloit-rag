@@ -2,8 +2,9 @@ id: catalog-admission-and-transfer-credit
 title: Catalog: Admission Transfer Applicants and Advanced Placement Credit
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 208-210
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 208]
 BELOIT COLLEGE CATALOG 2025-2027
 Admission
 The college admits applicants who appear to be best qualifed to beneft from and contribute to its
@@ -52,6 +53,7 @@ enrollment.
 TABLE OF CONTENTS
 208
 
+[page 209]
 2025-2027 BELOIT COLLEGE CATALOG
 Transfer Applicants
 Applications for transfer from accredited colleges and universities to Beloit for entrance in August or
@@ -100,6 +102,7 @@ information to the college may make a student ineligible for admission to the co
 TABLE OF CONTENTS
 209
 
+[page 210]
 BELOIT COLLEGE CATALOG 2025-2027
 Advanced Placement and Credit
 Up to 8 units of credit may be applied toward graduation from tests administered outside the college, as

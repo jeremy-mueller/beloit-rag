@@ -2,7 +2,7 @@ id: financial-aid-additional-assistance
 title: Financial Aid: Requesting Additional Financial Assistance
 source: https://www.beloit.edu/offices/financial-aid/requesting-additional-financial-assistance/
 kind: html
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
 Related Links
 Requesting Additional Financial Assistance

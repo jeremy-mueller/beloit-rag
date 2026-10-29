@@ -2,7 +2,7 @@ id: registrar-transfer-ap-gce-ib-credit
 title: Registrar: Transfer, AP, GCE, and IB Credit
 source: https://www.beloit.edu/offices/registrar/transfer-ap-gce-ib-credit/
 kind: html
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
 Related Links
 Transfer, AP, GCE, & IB Credit

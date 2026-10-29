@@ -2,7 +2,7 @@ id: registrar-final-exams
 title: Registrar: Final Exam Schedules and End of Term Assignments
 source: https://www.beloit.edu/offices/registrar/academic-calendars/final-exams/
 kind: html
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
 Related Links
 Final Exams

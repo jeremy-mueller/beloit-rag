@@ -2,14 +2,12 @@ id: catalog-academic-standing
 title: Catalog: Academic Standing and Academic Warning 14-15
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
-2025-2027 BELOIT COLLEGE CATALOG
-1
-TABLE OF CONTENTS
-Course Catalog
-2025-2027
+[page 1]
+2025-2027 BELOIT COLLEGE CATALOG 1 TABLE OF CONTENTS Course Catalog 2025-2027
 
+[page 2]
 BELOIT COLLEGE CATALOG 2025-2027
 TABLE OF CONTENTS
 Beloit College Course Catalog
@@ -42,6 +40,7 @@ written permission of Beloit College.
 Updated August 1, 2025
 2
 
+[page 3]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Table of Contents
@@ -76,12 +75,10 @@ Mission and Goals
 3
 TABLE OF CONTENTS
 
-BELOIT COLLEGE CATALOG 2025-2027
-4
-TABLE OF CONTENTS
-Mission & Goals
-1
+[page 4]
+BELOIT COLLEGE CATALOG 2025-2027 4 TABLE OF CONTENTS Mission & Goals 1
 
+[page 5]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Mission
@@ -128,6 +125,7 @@ explicitly connect students’ college experiences with their futures.
 TABLE OF CONTENTS
 5
 
+[page 6]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Integrated Learning Outcomes are embedded into everything we do and are designed to prepare students
@@ -178,6 +176,7 @@ entrepreneurship, dance technique, visual arts, music technique, creative writin
 TABLE OF CONTENTS
 6
 
+[page 7]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Social Analysis of Human Behavior
@@ -225,6 +224,7 @@ and outcomes.
 TABLE OF CONTENTS
 7
 
+[page 8]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Quantitative Reasoning
@@ -275,6 +275,7 @@ the preparation and refection activities required by GEO in order to qualify for
 TABLE OF CONTENTS
 8
 
+[page 9]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Synthesis of Multiple Experiences
@@ -327,6 +328,7 @@ may not be granted junior status until they have completed these requirements.
 TABLE OF CONTENTS
 9
 
+[page 10]
 BELOIT COLLEGE CATALOG 2025-2027
 
 The fve domain requirements are:
@@ -377,6 +379,7 @@ unless the course is designated as repeatable.
 TABLE OF CONTENTS
 10
 
+[page 11]
 2025-2027 BELOIT COLLEGE CATALOG
 
 e. No more than 4 units of coursework ofered in physical education, recreation, and athletics (PEC,
@@ -426,6 +429,7 @@ sites may, with the instructor’s prior approval, audit the course without char
 TABLE OF CONTENTS
 11
 
+[page 12]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Special Projects: Special projects are numbered 390 and may be taken for .25-1 unit. Sophomore status is
@@ -482,6 +486,7 @@ are no longer registered for the course. Students who drop below full-time statu
 TABLE OF CONTENTS
 12
 
+[page 13]
 2025-2027 BELOIT COLLEGE CATALOG
 
 an administrative drop may be administratively withdrawn from the semester unless they receive
@@ -532,6 +537,7 @@ may register for a maximum of 4.75 units.
 TABLE OF CONTENTS
 13
 
+[page 14]
 BELOIT COLLEGE CATALOG 2025-2027
 On or after the frst day of classes for a given term, students wishing to elect units in excess of 4.75 may do
 so with the written authorization of both the major advisor and the registrar. Such approval requires that
@@ -582,6 +588,7 @@ from classes.
 TABLE OF CONTENTS
 14
 
+[page 15]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Academic Warning: Students may be placed on academic warning for excessive incompletes and/or a term
@@ -632,6 +639,7 @@ service and have been readmitted are not required to complete 16 units after rea
 TABLE OF CONTENTS
 15
 
+[page 16]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Grading
@@ -683,6 +691,7 @@ guaranteed.
 TABLE OF CONTENTS
 16
 
+[page 17]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Incompletes: Incomplete grades shall be granted only in cases of serious illness or injury, family crisis, or
@@ -735,6 +744,7 @@ information, the student may fle an appeal or place a written explanation of the
 TABLE OF CONTENTS
 17
 
+[page 18]
 BELOIT COLLEGE CATALOG 2025-2027
 
 College “directory information” may be made available to the public unless a student acts to restrict such
@@ -792,6 +802,7 @@ earned a grade point average of 3.800. Such honors are recorded on the student�
 TABLE OF CONTENTS
 18
 
+[page 19]
 2025-2027 BELOIT COLLEGE CATALOG
 
 record.
@@ -826,13 +837,10 @@ cannot earn dean’s list recognition.
 TABLE OF CONTENTS
 19
 
-BELOIT COLLEGE CATALOG 2025-2027
-20
-TABLE OF CONTENTS
-Majors & Minors
-Majors & Minors
-2
+[page 20]
+BELOIT COLLEGE CATALOG 2025-2027 20 TABLE OF CONTENTS Majors & Minors Majors & Minors 2
 
+[page 21]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Majors and Minors
@@ -922,6 +930,7 @@ Geology Minor (5 units)
 TABLE OF CONTENTS
 21
 
+[page 22]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Greek, Latin, and Ancient Mediterranean
@@ -1003,6 +1012,7 @@ Visual Studies Minor (6 units)
 TABLE OF CONTENTS
 22
 
+[page 23]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Anthropology
@@ -1058,6 +1068,7 @@ graduate school are strongly encouraged to complete an honors thesis.
 TABLE OF CONTENTS
 23
 
+[page 24]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Anthropology Minor (6 units)
@@ -1109,6 +1120,7 @@ each year. Prerequisite: Anthropology 100.
 TABLE OF CONTENTS
 24
 
+[page 25]
 2025-2027 BELOIT COLLEGE CATALOG
 ANTH 208. Ethnographic Methods (1). This course introduces students to the basics of ethnographic
 research methods and the epistemological, political, and ethical debates around them. Throughout the
@@ -1164,6 +1176,7 @@ years, fall semester. Prerequisite: Anthropology 201.
 TABLE OF CONTENTS
 25
 
+[page 26]
 BELOIT COLLEGE CATALOG 2025-2027
 ANTH 253. Queer Ethnography (1). This class focuses on queer social life from the situated vantage points
 of ethnography. Students examine desires, disenfranchisements, and queer forms of community across
@@ -1221,6 +1234,7 @@ and infectious diseases to degenerative conditions and traumatic injury, to comp
 TABLE OF CONTENTS
 26
 
+[page 27]
 2025-2027 BELOIT COLLEGE CATALOG
 
 key knowledge, and theoretical perspectives of paleopathology as an anthropological discipline. Readings,
@@ -1270,6 +1284,7 @@ b. Art History 245.
 TABLE OF CONTENTS
 27
 
+[page 28]
 BELOIT COLLEGE CATALOG 2025-2027
 
 c. Five units of studio courses in a minimum of two media.* Of the 5 courses:
@@ -1322,6 +1337,7 @@ individual projects, and group and individual critiques. (2A). Course fee is $10
 TABLE OF CONTENTS
 28
 
+[page 29]
 2025-2027 BELOIT COLLEGE CATALOG
 ART 135. Figure Drawing (1). This course focuses on observational drawing, particularly of the human fgure.
 Working from live models, a diverse range of drawing processes and media are utilized in the development
@@ -1371,6 +1387,7 @@ each fall. Prerequisite: any 100-level studio art course. Course fee is $100.00.
 TABLE OF CONTENTS
 29
 
+[page 30]
 BELOIT COLLEGE CATALOG 2025-2027
 ART 215. Intermediate Drawing (1). The emphasis of this course is placed squarely upon investigating a
 variety of drawing approaches, attitudes, processes, and materials. Students are challenged to create a visual
@@ -1423,6 +1440,7 @@ ART 396. Teaching Assistant Research (.5).
 TABLE OF CONTENTS
 30
 
+[page 31]
 2025-2027 BELOIT COLLEGE CATALOG
 
 ARTH 110. Arts of China (1). This course examines the arts of China from the Neolithic period through the
@@ -1475,6 +1493,7 @@ advisor for permission.
 TABLE OF CONTENTS
 31
 
+[page 32]
 BELOIT COLLEGE CATALOG 2025-2027
 
 1. Asian Studies 351 (.5 unit).
@@ -1522,6 +1541,7 @@ a. At least 24 units of Beloit College credit, with no more than 7 units of tran
 TABLE OF CONTENTS
 32
 
+[page 33]
 2025-2027 BELOIT COLLEGE CATALOG
 
 i. Biology 110, 247 (or Health and Society 201), 256, 257.
@@ -1572,6 +1592,7 @@ b. Physics 101 or 102 or Geology 100, 105, or 110.
 TABLE OF CONTENTS
 33
 
+[page 34]
 BELOIT COLLEGE CATALOG 2025-2027
 
 3. Students majoring in biochemistry may choose to receive the Bachelor of Science degree rather than
@@ -1619,6 +1640,7 @@ efectively, both orally and in writing; and solve problems through the applicati
 TABLE OF CONTENTS
 34
 
+[page 35]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Biology Faculty
@@ -1664,6 +1686,7 @@ mathematics, and/or physics.
 TABLE OF CONTENTS
 35
 
+[page 36]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Environmental Biology Major (11.5 units)
@@ -1713,6 +1736,7 @@ presentations and oral presentations in classes do not fulfll the presentation r
 TABLE OF CONTENTS
 36
 
+[page 37]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Notes for Biology Majors
@@ -1766,6 +1790,7 @@ relationships, ecology, structure and function, and behavior of the organisms th
 TABLE OF CONTENTS
 37
 
+[page 38]
 BELOIT COLLEGE CATALOG 2025-2027
 contemporary issues in aquatic biology, including how human infuences have altered aquatic ecosystems
 over time. Students design, perform, analyze, and report on small research projects. Laboratory work
@@ -1819,6 +1844,7 @@ yearly. Prerequisite: one college-level biology course or consent of the instruc
 TABLE OF CONTENTS
 38
 
+[page 39]
 2025-2027 BELOIT COLLEGE CATALOG
 BIOL 247. Biometrics (1). The application of statistical methods to the solution of biological problems.
 Experimental design, sampling methods, and statistical analysis of data using both parametric and
@@ -1874,6 +1900,7 @@ occasionally. Prerequisite: three college-level biology courses.
 TABLE OF CONTENTS
 39
 
+[page 40]
 BELOIT COLLEGE CATALOG 2025-2027
 BIOL 358. Pathology (1). A topics based investigation of pathophysiological concepts which will explore
 the diferent etiologies and expressions of human pathology. The course will focus on the breakdown of the
@@ -1926,6 +1953,7 @@ faculty. Prerequisite: sophomore standing; consent of faculty supervisor and cha
 TABLE OF CONTENTS
 40
 
+[page 41]
 2025-2027 BELOIT COLLEGE CATALOG
 
 BIOL 398. Professional Experience (Non-Credit). An opportunity to acknowledge on a student’s permanent
@@ -1977,6 +2005,7 @@ mathematics, and/or physics.
 TABLE OF CONTENTS
 41
 
+[page 42]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Chemistry Major (11 units)
@@ -2025,6 +2054,7 @@ Note: Biology/Chemistry 260 and 300 may not be used to satisfy both biology and 
 TABLE OF CONTENTS
 42
 
+[page 43]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Departmental Honors in Chemistry or Biochemistry
@@ -2080,6 +2110,7 @@ quantitative analysis is satisfed by Chemistry 220. Three class periods and one 
 TABLE OF CONTENTS
 43
 
+[page 44]
 BELOIT COLLEGE CATALOG 2025-2027
 CHEM 225. Topics in Instrumental Analysis (.5, 1). Possible topics include nuclear magnetic resonance,
 electron spin resonance, infrared, Raman, electronic and atomic absorption and X-ray spectroscopies; mass
@@ -2135,6 +2166,7 @@ characterize antibiotic-producing bacteria from soil. Techniques include aseptic
 TABLE OF CONTENTS
 44
 
+[page 45]
 2025-2027 BELOIT COLLEGE CATALOG
 
 and introductory bioinformatics (BLAST, and antiSMASH), chemical extraction, and biochemical assays.
@@ -2185,6 +2217,7 @@ Psychology 100; and Psychology/Cognitive Science 240.
 TABLE OF CONTENTS
 45
 
+[page 46]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Studies 246 (when it is 1 unit), 276 (when the topic is bi-lingual education); Greek, Latin, and Ancient
@@ -2236,6 +2269,7 @@ b. Two chosen from Psychology 210, 215, 230, 235, 260, 265.
 TABLE OF CONTENTS
 46
 
+[page 47]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Conditions for Cognitive Science Minors
@@ -2289,6 +2323,7 @@ Prerequisite: Senior standing, invitation only.
 TABLE OF CONTENTS
 47
 
+[page 48]
 BELOIT COLLEGE CATALOG 2025-2027
 
 COGS 385. Advanced Topics in Cognitive Science (.5, 1). This course examines advanced topics in cognitive
@@ -2337,6 +2372,7 @@ and/or physics.
 TABLE OF CONTENTS
 48
 
+[page 49]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Computer Science Minor (6 units)
@@ -2390,6 +2426,7 @@ computers (e.g. ethics, privacy, liability, and security) will also be discussed
 TABLE OF CONTENTS
 49
 
+[page 50]
 BELOIT COLLEGE CATALOG 2025-2027
 CSCI 165. Web Design (.5). An introduction to the design, creation, and maintenance of web pages and
 websites. Students learn how to critically evaluate website quality, how to create and maintain web pages,
@@ -2446,6 +2483,7 @@ Computer Science 204 and Mathematics 160.
 TABLE OF CONTENTS
 50
 
+[page 51]
 2025-2027 BELOIT COLLEGE CATALOG
 CSCI 335. Threads and Operating Systems (1). Overviews the basic techniques for threaded programs
 where multiple tasks share the computer resources as well as surveys the principles of modern operating
@@ -2499,6 +2537,7 @@ traditional classroom.
 TABLE OF CONTENTS
 51
 
+[page 52]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Whether their communities are the places they call home, the various contexts of Beloit College, or the
@@ -2547,6 +2586,7 @@ course.
 TABLE OF CONTENTS
 52
 
+[page 53]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Critical Identity Studies Blocks
@@ -2594,6 +2634,7 @@ Dream).
 TABLE OF CONTENTS
 53
 
+[page 54]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Indigenous Studies (4 units)
@@ -2645,6 +2686,7 @@ Science 211, 214, 263, 265; Religious Studies 301, 315, 325, 330; Sociology 205,
 TABLE OF CONTENTS
 54
 
+[page 55]
 2025-2027 BELOIT COLLEGE CATALOG
 
 courses (e.g., Critical Identity Studies 265 Maladies of Empire; Critical Identity Studies 265 Bodies
@@ -2697,6 +2739,7 @@ diferent. The 2A, 3B, and 5T domained versions of this course are, respectively,
 TABLE OF CONTENTS
 55
 
+[page 56]
 BELOIT COLLEGE CATALOG 2025-2027
 
 CRIS 269. Topics in Critical Identity Studies: History Topic (.5, 1). History topics important to the feld of
@@ -2747,6 +2790,7 @@ recommended).
 TABLE OF CONTENTS
 56
 
+[page 57]
 2025-2027 BELOIT COLLEGE CATALOG
 
 b. Biology: one 100-level biology course and 247; either 215 or 372.
@@ -2796,6 +2840,7 @@ units are allowed to be double counted.
 TABLE OF CONTENTS
 57
 
+[page 58]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Departmental Honors in Data Science & Data Analytics
@@ -2850,6 +2895,7 @@ junior status.
 TABLE OF CONTENTS
 58
 
+[page 59]
 2025-2027 BELOIT COLLEGE CATALOG
 
 DSDA 390. Special Project (.25 - 1). Student works on an independent data project under faculty
@@ -2900,6 +2946,7 @@ the world operates. This major is suitable for students considering careers in p
 TABLE OF CONTENTS
 59
 
+[page 60]
 BELOIT COLLEGE CATALOG 2025-2027
 
 development, education, sustainability, public policy, and others.
@@ -2949,6 +2996,7 @@ Students may not count more than 3 units from the above listed minor requirement
 TABLE OF CONTENTS
 60
 
+[page 61]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Marketing Minor (6 units)
@@ -2996,6 +3044,7 @@ fnancial statements and do fnancial ratio analysis. Usually ofered in fall semes
 TABLE OF CONTENTS
 61
 
+[page 62]
 BELOIT COLLEGE CATALOG 2025-2027
 BUSN 217. Corporate Finance (1). This course teaches students both theoretical and practical applications of
 modern fnance. This course covers topics such as: time value of money, bond valuation, capital budgeting,
@@ -3051,6 +3100,7 @@ decisions. Ofered each year. Prerequisite: Economics 251.
 TABLE OF CONTENTS
 62
 
+[page 63]
 2025-2027 BELOIT COLLEGE CATALOG
 BUSN 302. Marketing Research (1). An introduction to the research methods used by organizations (public
 and private, proft and non-proft) to understand the wants and desires of their customers, clients, and con-
@@ -3105,6 +3155,7 @@ and also learn econometric tools that economists use to calculate discrimination
 TABLE OF CONTENTS
 63
 
+[page 64]
 BELOIT COLLEGE CATALOG 2025-2027
 look at other types of inequalities in an international context such as caste-based inequalities in India. By the
 end of the course, students learn how to think about various types of inequalities from an economics lens.
@@ -3159,6 +3210,7 @@ Reserve System, and monetary policy. The relationships of money and credit to pr
 TABLE OF CONTENTS
 64
 
+[page 65]
 2025-2027 BELOIT COLLEGE CATALOG
 income. Ofered each fall. Prerequisite: Economics 199 and 211.
 ECON 251. Quantitative Methods for Business and Economics (1). An introduction to the quantitative tools
@@ -3212,6 +3264,7 @@ each fall. Prerequisite: senior standing.
 TABLE OF CONTENTS
 65
 
+[page 66]
 BELOIT COLLEGE CATALOG 2025-2027
 
 ECON 390. Special Project (.25 - 1). Individual work, under faculty supervision, on projects acceptable to
@@ -3261,6 +3314,7 @@ related setting, under the supervision of Education and Youth Studies faculty an
 TABLE OF CONTENTS
 66
 
+[page 67]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Education and Youth Studies Minor (5 units)
@@ -3312,6 +3366,7 @@ and content-specifc varieties of sustained dialogue.
 TABLE OF CONTENTS
 67
 
+[page 68]
 BELOIT COLLEGE CATALOG 2025-2027
 5. Awareness and Refection: In every course in our curriculum, faculty stress the importance of
 understanding the historical, philosophical, social, global/international, and psychological background of
@@ -3369,6 +3424,7 @@ participants responsible for guiding our analyses of case studies and comparativ
 TABLE OF CONTENTS
 68
 
+[page 69]
 2025-2027 BELOIT COLLEGE CATALOG
 sharing weekly reading response and through group presentation projects. The class also incorporates other
 multi-media sources such as podcasts and videos to help enrich our understandings of the issues we study.
@@ -3425,6 +3481,7 @@ course and Education and Youth Studies 266 during the same semester.
 TABLE OF CONTENTS
 69
 
+[page 70]
 BELOIT COLLEGE CATALOG 2025-2027
 EDYS 266. Social Studies Instruction across the Curriculum (.5). This course is a theoretical and practical
 investigation into interdisciplinary approaches to Social Studies instruction, pedagogy, and content
@@ -3482,6 +3539,7 @@ to help develop professional teaching habits and evaluate student teaching progr
 TABLE OF CONTENTS
 70
 
+[page 71]
 2025-2027 BELOIT COLLEGE CATALOG
 a group at least once monthly on campus to discuss teaching experiences, and to work on edTPA (Teacher
 Performance Assessment). Successful submission of edTPA, as well as passing scores on other tests required
@@ -3535,6 +3593,7 @@ credit. Prerequisite: consent of instructor.
 TABLE OF CONTENTS
 71
 
+[page 72]
 BELOIT COLLEGE CATALOG 2025-2027
 
 EDYS 396. Teaching Assistant Research (.5). Course and curriculum development projects with faculty
@@ -3584,6 +3643,7 @@ f. Physics 220 (required by some electrical engineering programs).
 TABLE OF CONTENTS
 72
 
+[page 73]
 2025-2027 BELOIT COLLEGE CATALOG
 
 g. Physics 330 (for civil and mechanical engineering).
@@ -3634,6 +3694,7 @@ undergraduate, and undergraduate need-based fnancial aid will usually not be ava
 TABLE OF CONTENTS
 73
 
+[page 74]
 BELOIT COLLEGE CATALOG 2025-2027
 
 engineering college. Graduate study is normally funded with assistantships or fellowships.
@@ -3684,6 +3745,7 @@ one foreign language.
 TABLE OF CONTENTS
 74
 
+[page 75]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Literary Studies Major (10 units)
@@ -3734,6 +3796,7 @@ ENGL 194. Questioning Literary Traditions (1). This course introduces students t
 TABLE OF CONTENTS
 75
 
+[page 76]
 BELOIT COLLEGE CATALOG 2025-2027
 transformation of literary traditions in English, through a comparison of historical, cultural, national, or
 transnational works spanning at least three centuries. As case studies in comparative historical reading,
@@ -3787,6 +3850,7 @@ ENGL 251. Studies in Medieval and Early Modern Literature (1). English literatur
 TABLE OF CONTENTS
 76
 
+[page 77]
 2025-2027 BELOIT COLLEGE CATALOG
 to later 1700s. First of a set of courses, “Texts and Historical Contexts,” all of which approach literature
 by locating it in its historical context. Recent topics have included Chaucer and His Contemporaries,
@@ -3840,6 +3904,7 @@ ENGL 310. Literature as Process: Composing in Forms (1). These advanced capstone
 TABLE OF CONTENTS
 77
 
+[page 78]
 BELOIT COLLEGE CATALOG 2025-2027
 
 ••
@@ -3891,6 +3956,7 @@ b. One experimental design and statistical analysis course: Biology 247.
 TABLE OF CONTENTS
 78
 
+[page 79]
 2025-2027 BELOIT COLLEGE CATALOG
 
 c. One molecular-to-cellular level course: Biology 289.
@@ -3938,6 +4004,7 @@ Writing 100.
 TABLE OF CONTENTS
 79
 
+[page 80]
 BELOIT COLLEGE CATALOG 2025-2027
 
 2. Environmental justice and citizenship (2): Two units chosen from Anthropology 100; Economics 199;
@@ -3989,6 +4056,7 @@ science, physics, and public policy.
 TABLE OF CONTENTS
 80
 
+[page 81]
 2025-2027 BELOIT COLLEGE CATALOG
 
 6. Writing/communication requirement: The department of geology strives to develop the communication
@@ -4037,6 +4105,7 @@ Studies 287/Spanish 282; or a course chosen in consultation with the student’s
 TABLE OF CONTENTS
 81
 
+[page 82]
 BELOIT COLLEGE CATALOG 2025-2027
 
 7. Writing/communication requirement: Writing in environmental studies incorporates the multiple traditions
@@ -4086,6 +4155,7 @@ Economics 199.
 TABLE OF CONTENTS
 82
 
+[page 83]
 2025-2027 BELOIT COLLEGE CATALOG
 ENVS 210. Sustainable Cities (1). According to estimates by the United Nations, by 2030 the share of the
 world’s population living in urban areas will reach 60%, with the fastest growing cities located in low-income
@@ -4144,6 +4214,7 @@ taught as Journalism 225.) (2A) Prerequisite: sophomore standing.
 TABLE OF CONTENTS
 83
 
+[page 84]
 BELOIT COLLEGE CATALOG 2025-2027
 ENVS 231. Philosophy of Nature and the Environment (1). How human beings understand nature has a
 deep impact on how they understand themselves and how they live. For this reason, the variety of concepts,
@@ -4200,6 +4271,7 @@ project on campus and a simulation of a climate change summit. They learn about 
 TABLE OF CONTENTS
 84
 
+[page 85]
 2025-2027 BELOIT COLLEGE CATALOG
 well as the actors, institutions, and key issues in environmental policy-making, from the local level to the
 global, with special focus on climate change, class, environmental racism, environmental justice, activism,
@@ -4255,6 +4327,7 @@ major, or consent of instructor. The 2A, 1S, 3B, 4U, 5T domained versions of thi
 TABLE OF CONTENTS
 85
 
+[page 86]
 BELOIT COLLEGE CATALOG 2025-2027
 ENVS 287. Environmental Hispanic Literature (1). Using an eco-critical approach, this seminar course
 involves the study of Spanish-language literatures on themes involving the environment such as
@@ -4306,6 +4379,7 @@ helps us imagine the future.
 TABLE OF CONTENTS
 86
 
+[page 87]
 2025-2027 BELOIT COLLEGE CATALOG
 
 At the same time, for centuries the question of what constitutes “Europe” has been up for debate. Is Europe
@@ -4357,6 +4431,7 @@ Courses That May Apply to a European Studies Minor
 TABLE OF CONTENTS
 87
 
+[page 88]
 BELOIT COLLEGE CATALOG 2025-2027
 
 2. When Europe is the Focus:
@@ -4404,6 +4479,7 @@ one elective unit.
 TABLE OF CONTENTS
 88
 
+[page 89]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Finance Dual Degree Program Courses
@@ -4453,6 +4529,7 @@ research fndings at professional conferences in the form of oral or poster prese
 TABLE OF CONTENTS
 89
 
+[page 90]
 BELOIT COLLEGE CATALOG 2025-2027
 
 b. All 200- and 300-level courses include assignments fashioned to help students communicate pro-
@@ -4503,6 +4580,7 @@ course supports the thesis requirement and is designated W: Geology 385-Thesis R
 TABLE OF CONTENTS
 90
 
+[page 91]
 2025-2027 BELOIT COLLEGE CATALOG
 
 7. Students majoring in geology may choose to receive the Bachelor of Science degree rather than the
@@ -4554,6 +4632,7 @@ or co-requisite: Geology 100, 105, 110 or Chemistry 220.
 TABLE OF CONTENTS
 91
 
+[page 92]
 BELOIT COLLEGE CATALOG 2025-2027
 GEOL 205. Petrology (1). The study of rocks, including their composition, classifcation, and tectonic setting.
 Lectures and laboratory focus on the processes that control the formation of rocks in the context of plate
@@ -4608,6 +4687,7 @@ Ofered occasionally. Prerequisite: dependent upon subject matter.
 TABLE OF CONTENTS
 92
 
+[page 93]
 2025-2027 BELOIT COLLEGE CATALOG
 
 GEOL 251. Advanced Topics in Geology (1). Topics of current interest or of special importance in the feld
@@ -4658,6 +4738,7 @@ identity studies courses.
 TABLE OF CONTENTS
 93
 
+[page 94]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Courses with asterisks (*) apply only iftopic is appropriate. Consult with a Greek, Latin, and Ancient
@@ -4707,6 +4788,7 @@ occasionally. Prerequisite: Greek, Latin, and Ancient Mediterranean Studies 120 
 TABLE OF CONTENTS
 94
 
+[page 95]
 2025-2027 BELOIT COLLEGE CATALOG
 GLAM 140. Beginning Latin I (1). In this class, students master the basic vocabulary and forms of the
 language of the Caesars, Cicero, and the citizens of the Roman Empire. Latin is an advantageous starting
@@ -4761,6 +4843,7 @@ instructor.
 TABLE OF CONTENTS
 95
 
+[page 96]
 BELOIT COLLEGE CATALOG 2025-2027
 GLAM 215. Ancient Medicine (1). This course addresses various aspects of Greco-Roman medical systems:
 what constitutes a “healthy” body; how genetics and environment afect health status; what diseases afect
@@ -4814,6 +4897,7 @@ Ancient Mediterranean Studies 141 or consent of instructor.
 TABLE OF CONTENTS
 96
 
+[page 97]
 2025-2027 BELOIT COLLEGE CATALOG
 GLAM 243. Medieval Latin Literature and Palaeography (1). A survey of the extraordinary diversity
 of Medieval Latin literature (both poetry and prose), with special emphasis on the 11th-13th centuries.
@@ -4867,6 +4951,7 @@ Prerequisite: Greek, Latin, and Ancient Mediterranean Studies 141 or consent of 
 TABLE OF CONTENTS
 97
 
+[page 98]
 BELOIT COLLEGE CATALOG 2025-2027
 
 GLAM 350. Classics and You: A Capstone (.5). This course has three goals: (1) embark on an in-depth study
@@ -4918,6 +5003,7 @@ Health and Society/Political Science 201, Sociology 205 or 211.
 TABLE OF CONTENTS
 98
 
+[page 99]
 2025-2027 BELOIT COLLEGE CATALOG
 
 6. Choose one unit from each theme. Other relevant course oferings with signifcant health content may be
@@ -4970,6 +5056,7 @@ Physical Education, Recreation, and Athletics 308.
 TABLE OF CONTENTS
 99
 
+[page 100]
 BELOIT COLLEGE CATALOG 2025-2027
 
 • Biological Systems and Health: Anthropology 230, Biology 237, 256, 257, 289, 340, Biology/Chemistry
@@ -5020,6 +5107,7 @@ recommended.
 TABLE OF CONTENTS
 100
 
+[page 101]
 2025-2027 BELOIT COLLEGE CATALOG
 HEAL 212. U.S. Health Policy and Politics (1). An overview of health policy and politics in the United States.
 Course examines the U.S. health care system, its politics, organization, and the fnancing of health services.
@@ -5076,6 +5164,7 @@ illness, including childbirth, breast cancer, aging, HIV/AIDS, and forms of psyc
 TABLE OF CONTENTS
 101
 
+[page 102]
 BELOIT COLLEGE CATALOG 2025-2027
 Depending on the instructors, this course may consider global issues and/or may include a signifcant
 laboratory component. May be taken for credit only one time. Ofered occasionally.
@@ -5131,6 +5220,7 @@ HEAL 342. Health and Society Research Project (.5). Specialized credit for resea
 TABLE OF CONTENTS
 102
 
+[page 103]
 2025-2027 BELOIT COLLEGE CATALOG
 
 HEAL 390. Special Projects (.25 - 1). Prerequisite: sophomore standing.
@@ -5180,6 +5270,7 @@ self-designed honors project.
 TABLE OF CONTENTS
 103
 
+[page 104]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Notes for Health Sciences Majors
@@ -5230,6 +5321,7 @@ historical breadth.
 TABLE OF CONTENTS
 104
 
+[page 105]
 2025-2027 BELOIT COLLEGE CATALOG
 
 d. A historical depth requirement involving at least 3 units at the 100- or 200-level within a particular
@@ -5280,6 +5372,7 @@ students. The 5T- and 3B-domained versions of this course are, respectively, His
 TABLE OF CONTENTS
 105
 
+[page 106]
 BELOIT COLLEGE CATALOG 2025-2027
 HIST 221. Greek Civilization (1). Greek origins, the Bronze Age, the Middle Age, the rise of the city-state,
 archaic and classical civilization, the Persian and Peloponnesian Wars, the decline of the city-state, and the
@@ -5336,6 +5429,7 @@ occasionally. Open to frst-year students.
 TABLE OF CONTENTS
 106
 
+[page 107]
 2025-2027 BELOIT COLLEGE CATALOG
 HIST 245. The United States in the 20th Century, 1945-Present (1). Emphasis on foreign relations and
 domestic social issues: the emerging Cold War, McCarthyism, the Korean War, the 1950s, Kennedy and
@@ -5391,6 +5485,7 @@ previous history class at Beloit College.
 TABLE OF CONTENTS
 107
 
+[page 108]
 BELOIT COLLEGE CATALOG 2025-2027
 HIST 295. Historiography Workshop (.5, 1). This class explores the “History of History,” that is, the evolution
 of ideas and perspectives about the study of the past. Usually, this class will focus on the development
@@ -5440,6 +5535,7 @@ self-designed majors.
 TABLE OF CONTENTS
 108
 
+[page 109]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Interdisciplinary minors are: Asian studies, cognitive science, critical identity studies, environmental studies,
@@ -5491,6 +5587,7 @@ should indicate their willingness to supervise these courses. Up to 3 units of s
 TABLE OF CONTENTS
 109
 
+[page 110]
 BELOIT COLLEGE CATALOG 2025-2027
 
 count toward the major.
@@ -5540,6 +5637,7 @@ the Provost’s Ofce and on the college’s website.
 TABLE OF CONTENTS
 110
 
+[page 111]
 2025-2027 BELOIT COLLEGE CATALOG
 
 a. A descriptive and appropriate title.
@@ -5591,6 +5689,7 @@ sports, student government, social action, or another venue.
 TABLE OF CONTENTS
 111
 
+[page 112]
 BELOIT COLLEGE CATALOG 2025-2027
 
 ••
@@ -5645,6 +5744,7 @@ International Relations Faculty
 TABLE OF CONTENTS
 112
 
+[page 113]
 2025-2027 BELOIT COLLEGE CATALOG
 
 International Relations Major (13-15 units)
@@ -5690,6 +5790,7 @@ contexts (such as societal, intellectual, ethical, and experiential contexts).
 TABLE OF CONTENTS
 113
 
+[page 114]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Journalism Faculty
@@ -5741,6 +5842,7 @@ develop skills as writers, video makers, and cultural critics. (2A) (Also listed
 TABLE OF CONTENTS
 114
 
+[page 115]
 2025-2027 BELOIT COLLEGE CATALOG
 
 JOUR 264. Topics in Media and Cultural Analysis (1). These courses focus on media and other facets
@@ -5791,6 +5893,7 @@ No more than 2 units that count toward a major or minor may be used to fulfll th
 TABLE OF CONTENTS
 115
 
+[page 116]
 BELOIT COLLEGE CATALOG 2025-2027
 
 ••
@@ -5843,6 +5946,7 @@ the work done at the completion of the course.
 TABLE OF CONTENTS
 116
 
+[page 117]
 2025-2027 BELOIT COLLEGE CATALOG
 
 4. A two-page paper in which students ofer a rationale for and synthesis of their chosen course of study.
@@ -5889,6 +5993,7 @@ preparing applications to graduate and professional schools.
 TABLE OF CONTENTS
 117
 
+[page 118]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Law & Justice Faculty
@@ -5936,6 +6041,7 @@ a. One unit of computer science, excluding computer science 165, 390 (except by 
 TABLE OF CONTENTS
 118
 
+[page 119]
 2025-2027 BELOIT COLLEGE CATALOG
 
 the AP Computer Science Principles exam.
@@ -5981,6 +6087,7 @@ ment regarding potential placement beyond MATH 115.
 TABLE OF CONTENTS
 119
 
+[page 120]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Departmental Honors in Mathematics
@@ -6032,6 +6139,7 @@ epistemology of mathematics. (1S) Prerequisite: Mathematics 110.
 TABLE OF CONTENTS
 120
 
+[page 121]
 2025-2027 BELOIT COLLEGE CATALOG
 MATH 160. Discrete Structures (1). Introduction to the mathematical basis for computer science, including
 logic, counting, graphs and trees, and discrete probability. Ofered even years, fall semester. Prerequisite:
@@ -6081,6 +6189,7 @@ taken two times for credit if topic is diferent. Graded credit/no credit. Prereq
 TABLE OF CONTENTS
 121
 
+[page 122]
 BELOIT COLLEGE CATALOG 2025-2027
 
 MATH 385. Mathematics Colloquium (.5). Attendance required. Students select a faculty guide to assist
@@ -6129,6 +6238,7 @@ b. Two additional upper-level units chosen in consultation with a media studies 
 TABLE OF CONTENTS
 122
 
+[page 123]
 2025-2027 BELOIT COLLEGE CATALOG
 
 2. Two supporting units of media studies coursework chosen in consultation with a media studies advisor.
@@ -6181,6 +6291,7 @@ Students will also examine some of the legal and ethical issues that directors o
 TABLE OF CONTENTS
 123
 
+[page 124]
 BELOIT COLLEGE CATALOG 2025-2027
 encounter, as well as some of the social and political roles that documentaries play within our society. (Also
 listed as Journalism 155.) (2A) Ofered every other year.
@@ -6235,6 +6346,7 @@ to develop skills as writers, video makers, and cultural critics. (2A) (Also lis
 TABLE OF CONTENTS
 124
 
+[page 125]
 2025-2027 BELOIT COLLEGE CATALOG
 MDST 263. Nightmare Japan in Translation (1). In Japan, since the late 19th century, the rapid changes
 associated with post-Meiji modernization have been, at least on some level, linked to the anxiety and
@@ -6291,6 +6403,7 @@ own digital media projects, using a variety of audio, video, and web-based produ
 TABLE OF CONTENTS
 125
 
+[page 126]
 BELOIT COLLEGE CATALOG 2025-2027
 
 as Environmental Studies 260 and Journalism 350.) Ofered every other year. Prerequisite: junior or senior
@@ -6343,6 +6456,7 @@ Medieval Studies Faculty
 TABLE OF CONTENTS
 126
 
+[page 127]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Medieval Studies Minor (6 units)
@@ -6394,6 +6508,7 @@ Modern Languages & Literatures Faculty
 TABLE OF CONTENTS
 127
 
+[page 128]
 BELOIT COLLEGE CATALOG 2025-2027
 
 • Daniel Michael Youd
@@ -6443,6 +6558,7 @@ with the approval of the advisor.
 TABLE OF CONTENTS
 128
 
+[page 129]
 2025-2027 BELOIT COLLEGE CATALOG
 
 3. Asian Studies 351 (.5 unit).
@@ -6494,6 +6610,7 @@ approved by the department.
 TABLE OF CONTENTS
 129
 
+[page 130]
 BELOIT COLLEGE CATALOG 2025-2027
 
 5. With the pre-approval of the department, students may count 2 units of literature in translation toward
@@ -6542,6 +6659,7 @@ LANGUAGE COURSE IS APPROPRIATE.
 TABLE OF CONTENTS
 130
 
+[page 131]
 2025-2027 BELOIT COLLEGE CATALOG
 CHIN 115. Second-Year Chinese II (1). Through aural, oral, and compositional exercises and reading
 selections, these courses build upon prior competencies. After a review of basic grammatical structures and
@@ -6597,6 +6715,7 @@ are, who they want to be, and to re-think how the Quest can be used to foster in
 TABLE OF CONTENTS
 131
 
+[page 132]
 BELOIT COLLEGE CATALOG 2025-2027
 Students analyze the origins of these stories and explore the consequences of them being used to imagine
 who is — and is not — part of our communities. In a fnal creative project, students imagine their own quest.
@@ -6652,6 +6771,7 @@ English. (5T) No prerequisites.
 TABLE OF CONTENTS
 132
 
+[page 133]
 2025-2027 BELOIT COLLEGE CATALOG
 FREN 290. Filmic Expressions of the Francophone World in Translation (1). This course examines
 Francophone cultures through flm. It may center on flms of particular directors, regions, and/or themes
@@ -6703,6 +6823,7 @@ ANOTHER LANGUAGE COURSE IS APPROPRIATE.
 TABLE OF CONTENTS
 133
 
+[page 134]
 BELOIT COLLEGE CATALOG 2025-2027
 JAPN 205. Third-Year Japanese II (1). These courses aim to expand students’ basic skills in the Japanese
 language and deepen their knowledge of Japanese culture. New speech styles and new Kanji are introduced.
@@ -6758,6 +6879,7 @@ community in meaningful ways. (5T). Prerequisite: Japanese 200.
 TABLE OF CONTENTS
 134
 
+[page 135]
 2025-2027 BELOIT COLLEGE CATALOG
 JAPN 260. Topics in Japanese Literature and Culture in Translation (1). A seminar course involving inten-
 sive textual analysis of particular topics in Japanese literature. Topics may center on a single theme, author,
@@ -6811,6 +6933,7 @@ JAPN 396. Teaching Assistant Research (.5). Course and curriculum development pr
 TABLE OF CONTENTS
 135
 
+[page 136]
 BELOIT COLLEGE CATALOG 2025-2027
 
 SPAN 100. Elementary Spanish I (1). Based on a communicative approach, this course provides a solid
@@ -6867,6 +6990,7 @@ IF NOT, THE STUDENT WILL BE CONTACTED BY THE DEPARTMENT TO DETERMINE WHETHER A D
 TABLE OF CONTENTS
 136
 
+[page 137]
 2025-2027 BELOIT COLLEGE CATALOG
 
 OR REGISTRATION IN ANOTHER LANGUAGE COURSE IS APPROPRIATE.
@@ -6922,6 +7046,7 @@ spring semester (5T). (Also taught as English 250.) Prerequisties: none.
 TABLE OF CONTENTS
 137
 
+[page 138]
 BELOIT COLLEGE CATALOG 2025-2027
 SPAN 270. Latinx in the United States (1). This course examines topics related to the Latino/a experience
 in the United States. Using flms, documentaries, multidisciplinary writings and/or literary pieces, this course
@@ -6972,6 +7097,7 @@ academic departments, work with students to create a program stressing:
 TABLE OF CONTENTS
 138
 
+[page 139]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Understanding of the contexts and uses of cultural and natural objects and collections, awareness of the
@@ -7025,6 +7151,7 @@ gain a critical perspective on a wide range of current exhibit approaches, techn
 TABLE OF CONTENTS
 139
 
+[page 140]
 BELOIT COLLEGE CATALOG 2025-2027
 
 as knowledge of and experience in the skills of exhibit planning, design, and installation. (2A) Prerequisite:
@@ -7075,6 +7202,7 @@ Nursing Dual Degree Program Faculty
 TABLE OF CONTENTS
 140
 
+[page 141]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Nursing Dual Degree Program
@@ -7122,6 +7250,7 @@ individuals. Our classes ofer students (majors and non-majors alike) opportuniti
 TABLE OF CONTENTS
 141
 
+[page 142]
 BELOIT COLLEGE CATALOG 2025-2027
 
 adventurously, and collaborate successfully. We empower students with knowledge and encourage the
@@ -7171,6 +7300,7 @@ d. Theatre: Performing and Applied Arts 100, 106, 206, 207, 222, 225, 288, 306, 
 TABLE OF CONTENTS
 142
 
+[page 143]
 2025-2027 BELOIT COLLEGE CATALOG
 
 e. Arts: Performing and Applied Arts 219, 220, 221, 222, 276, 285, 290, 310, Media Studies 270 (if topic is
@@ -7222,6 +7352,7 @@ during the frst two weeks of the term. After that time, the full fee is charged.
 TABLE OF CONTENTS
 143
 
+[page 144]
 BELOIT COLLEGE CATALOG 2025-2027
 MUSI 018. Guitar (.25). Students receive individual instruction with a qualifed instructor. Thirteen 40-min-
 ute lessons or equivalent per semester. Open to all students, from beginning to advanced skills. (2A) A fee
@@ -7274,6 +7405,7 @@ dropped during the frst two weeks of the term. After that time, the full fee is 
 TABLE OF CONTENTS
 144
 
+[page 145]
 2025-2027 BELOIT COLLEGE CATALOG
 MUSI 041. Violin (.25). Students receive individual instruction with a qualifed instructor. Thirteen 40-minute
 lessons or equivalent per semester. Open to all students, from beginning to advanced skills. (2A) A fee of
@@ -7328,6 +7460,7 @@ classical repertoire, students are encouraged to suggest other genres. (2A)
 TABLE OF CONTENTS
 145
 
+[page 146]
 BELOIT COLLEGE CATALOG 2025-2027
 
 PART 080. Collaboration (.25-1). In this course students receive credit for their crew work in any musical,
@@ -7382,6 +7515,7 @@ other fall, odd years.
 TABLE OF CONTENTS
 146
 
+[page 147]
 2025-2027 BELOIT COLLEGE CATALOG
 PART 115. Ballet I (.75). Introduction to the technique, creative processes, and historical contexts of classical
 ballet. Classes include exercise at the barre, center work, and combinations across the foor designed to
@@ -7437,6 +7571,7 @@ fundamentals are introduced. (2A) Ofered occasionally.
 TABLE OF CONTENTS
 147
 
+[page 148]
 BELOIT COLLEGE CATALOG 2025-2027
 PART 200. Topics in Performing and Applied Arts (.25 -1). This course focuses on the study of the
 performance arts as examined in light of another discipline and, inversely, how the other discipline can be
@@ -7492,6 +7627,7 @@ spectacle, and performance. The goal is to examine the role of the performance a
 TABLE OF CONTENTS
 148
 
+[page 149]
 2025-2027 BELOIT COLLEGE CATALOG
 Throughout the course, students explore interdisciplinary approaches to stretch the boundaries of their
 imagination. Those interested in media will gain insights to theories critical to understanding and critiquing
@@ -7544,6 +7680,7 @@ production season, with the opportunity of student projects appearing onstage. (
 TABLE OF CONTENTS
 149
 
+[page 150]
 BELOIT COLLEGE CATALOG 2025-2027
 PART 247. Design and Creation for the Stage (.5). In this half credit course students learn the building
 blocks of visual design for the stage. They learn ways to manipulate the elements of design specifc to
@@ -7598,6 +7735,7 @@ every other fall, even years.
 TABLE OF CONTENTS
 150
 
+[page 151]
 2025-2027 BELOIT COLLEGE CATALOG
 PART 276. Multidisciplinary Arts and Media Collaboration (1). This topics course leads students through
 exploratory performance and installation projects. Students who identify with any creative practice (such
@@ -7654,6 +7792,7 @@ in iambic pentameter. Embody great literary heroes. Discover the imaginative sta
 TABLE OF CONTENTS
 151
 
+[page 152]
 BELOIT COLLEGE CATALOG 2025-2027
 This is your chance to discover the wonders, complexities, and joys of performance. Seize hold of this
 opportunity and devour it. Prerequisite: Performing and Applied Arts 106. Ofered occasionally.
@@ -7704,6 +7843,7 @@ PART 395. Teaching Assistant (.25-.5). Work with faculty in classroom instructio
 TABLE OF CONTENTS
 152
 
+[page 153]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Pharmacy Dual Degree Program
@@ -7752,6 +7892,7 @@ b.Three additional units, not including studio art, theater, or physical educati
 TABLE OF CONTENTS
 153
 
+[page 154]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Additional Notes:
@@ -7797,6 +7938,7 @@ engagement.
 TABLE OF CONTENTS
 154
 
+[page 155]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Philosophy Minor (6 units)
@@ -7851,6 +7993,7 @@ autonomy in medical decision-making, research on animal and human subjects, and 
 TABLE OF CONTENTS
 155
 
+[page 156]
 BELOIT COLLEGE CATALOG 2025-2027
 medical resources. (5T) (Also listed as Health and Society 221.) Ofered each spring. Prerequisite: Philosophy
 110 or 115, or sophomore standing.
@@ -7906,6 +8049,7 @@ Science 241.) Ofered even years, spring semester. Prerequisite: Philosophy 110 o
 TABLE OF CONTENTS
 156
 
+[page 157]
 2025-2027 BELOIT COLLEGE CATALOG
 PHIL 243. Theories of Law and Justice (1). Examination of the concept of law and the concept of justice,
 with a particular focus on 20th and 21st century philosophical theories of each concept, as well as critical
@@ -7960,6 +8104,7 @@ least 1 philosophy course.
 TABLE OF CONTENTS
 157
 
+[page 158]
 BELOIT COLLEGE CATALOG 2025-2027
 
 PHIL 385. Colloquium in Philosophy (.5). A capstone course for philosophy majors and minors, typically
@@ -8007,6 +8152,7 @@ b. Three additional elective units in Physics.
 TABLE OF CONTENTS
 158
 
+[page 159]
 2025-2027 BELOIT COLLEGE CATALOG
 
 i. One course must be at the 200-level or above.
@@ -8053,6 +8199,7 @@ engineering college. Graduate study is normally funded with assistantships or fe
 TABLE OF CONTENTS
 159
 
+[page 160]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Engineering Program Major (3-2)
@@ -8106,6 +8253,7 @@ amplifer concepts. The central part of the course works with feedback circuits. 
 TABLE OF CONTENTS
 160
 
+[page 161]
 2025-2027 BELOIT COLLEGE CATALOG
 considers nonlinear devices with PN semiconductor junctions, transistors, and small and large signal
 transistor circuits. The course consists of both lab-centered practical circuit analysis and computer-simulated
@@ -8156,6 +8304,7 @@ the department.
 TABLE OF CONTENTS
 161
 
+[page 162]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Political Science
@@ -8204,6 +8353,7 @@ major requirements. In addition, our capstone seminars (300-level courses) seek 
 TABLE OF CONTENTS
 162
 
+[page 163]
 2025-2027 BELOIT COLLEGE CATALOG
 
 with a sustained research and writing project.
@@ -8259,6 +8409,7 @@ and around the world are studied and compared. Some of the major themes explored
 TABLE OF CONTENTS
 163
 
+[page 164]
 BELOIT COLLEGE CATALOG 2025-2027
 sustainability of cities are indicators of sustainability, demographic trends, environmental justice, green
 building, urban sprawl, global climate change, and sustainable energy and transportation policies. (Also
@@ -8309,6 +8460,7 @@ court exercise. Ofered each year. Prerequisite: sophomore standing or consent of
 TABLE OF CONTENTS
 164
 
+[page 165]
 2025-2027 BELOIT COLLEGE CATALOG
 POLS 230. Comparative Health Systems (1). This course provides an overview of comparative health
 systems. Health care systems in both rich and poor countries throughout the world are examined, including
@@ -8361,6 +8513,7 @@ fourth-year students.
 TABLE OF CONTENTS
 165
 
+[page 166]
 BELOIT COLLEGE CATALOG 2025-2027
 POLS 263. Politics of Mass Atrocities (1). This seminar examines the causes and consequences of
 extraordinary political evil at the level of the individual, focusing on genocide, crimes against humanity, war
@@ -8413,6 +8566,7 @@ discussion. Ofered even years, fall semester. Prerequisite: Political Science 18
 TABLE OF CONTENTS
 166
 
+[page 167]
 2025-2027 BELOIT COLLEGE CATALOG
 
 POLS 295. Studies in Politics (.5, 1). Selected topics or problems in government and politics or in relating
@@ -8464,6 +8618,7 @@ Psychology Faculty
 TABLE OF CONTENTS
 167
 
+[page 168]
 BELOIT COLLEGE CATALOG 2025-2027
 
 •
@@ -8515,6 +8670,7 @@ data analysis software SPSS and to writing with APA style. Ofered each semester.
 TABLE OF CONTENTS
 168
 
+[page 169]
 2025-2027 BELOIT COLLEGE CATALOG
 PSYC 162. Research Methods and Statistics II (1). This is the second course in a two-course sequence
 designed to examine the statistical concepts and research strategies used by psychologists. Students
@@ -8569,6 +8725,7 @@ Cognitive Science 240.) Ofered each year. Prerequisite: Psychology 100.
 TABLE OF CONTENTS
 169
 
+[page 170]
 BELOIT COLLEGE CATALOG 2025-2027
 PSYC 250. Personality Psychology (1). This course investigates diferent empirical approaches to the study
 and understanding of human personality, including historically important and current conceptualizations of
@@ -8622,6 +8779,7 @@ Prerequisite: Psychology 162 and senior standing; approval of department.
 TABLE OF CONTENTS
 170
 
+[page 171]
 2025-2027 BELOIT COLLEGE CATALOG
 
 PSYC 360. Advanced Social Psychology (1). This capstone seminar is intended for juniors and seniors
@@ -8669,6 +8827,7 @@ Religious Studies Faculty
 TABLE OF CONTENTS
 171
 
+[page 172]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Religious Studies Minor (6 units)
@@ -8722,6 +8881,7 @@ diferent. Ofered occasionally. Prerequisite: varies with topic.
 TABLE OF CONTENTS
 172
 
+[page 173]
 2025-2027 BELOIT COLLEGE CATALOG
 
 RLST 301. Lifeways of Resistance in the Black Atlantic (1). This advanced-level course is structured to guide
@@ -8779,6 +8939,7 @@ RLST 390. Special Projects (.25 - 1). Prerequisite: sophomore standing.
 TABLE OF CONTENTS
 173
 
+[page 174]
 BELOIT COLLEGE CATALOG 2025-2027
 
 •
@@ -8831,6 +8992,7 @@ direct action, legislative reform, economic development, charitable giving, and 
 TABLE OF CONTENTS
 174
 
+[page 175]
 2025-2027 BELOIT COLLEGE CATALOG
 issues studied include refugee resettlement, welfare, human rights, civil rights, torture, substance abuse,
 globalization, and hunger, as well as those chosen by class participants. The course is taught utilizing
@@ -8884,6 +9046,7 @@ structural inequality. Prerequisites: Sociology 100.
 TABLE OF CONTENTS
 175
 
+[page 176]
 BELOIT COLLEGE CATALOG 2025-2027
 SOCI 221. Women, Race, & Class (1). This course examines the intersections of race, ethnicity, and class as
 categories of analysis for understanding both diverse and common experiences of inequalities faced by
@@ -8938,6 +9101,7 @@ uisite: Sociology 100 or 150.
 TABLE OF CONTENTS
 176
 
+[page 177]
 2025-2027 BELOIT COLLEGE CATALOG
 SOCI 256. Criminal Justice (1). Law and the criminal justice system as forms of social control. Law
 enforcement, courts, corrections— their social, cultural, institutional, and practical foundations and efects.
@@ -8991,6 +9155,7 @@ occasionally. Prerequisite: Sociology 100 or 150, or consent of instructor.
 TABLE OF CONTENTS
 177
 
+[page 178]
 BELOIT COLLEGE CATALOG 2025-2027
 
 SOCI 285. Dufy Community Partnerships Seminar (1). Through hands-on engagement and academic
@@ -9042,6 +9207,7 @@ departments.
 TABLE OF CONTENTS
 178
 
+[page 179]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Visual Studies Faculty
@@ -9066,13 +9232,10 @@ Courses for this program come from many departments and programs.
 TABLE OF CONTENTS
 179
 
-BELOIT COLLEGE CATALOG 2025-2027
-180
-TABLE OF CONTENTS
-Majors & Minors
-Centers and Schools
-3
+[page 180]
+BELOIT COLLEGE CATALOG 2025-2027 180 TABLE OF CONTENTS Majors & Minors Centers and Schools 3
 
+[page 181]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Beloit College Centers and Schools serve as vital structures that help students connect their academic
@@ -9121,6 +9284,7 @@ Center for Entrepreneurship in Liberal Education at Beloit (CELEB) Staf
 TABLE OF CONTENTS
 181
 
+[page 182]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Center for Integrative Learning
@@ -9167,6 +9331,7 @@ Global Experience Ofce (GEO) Staf
 TABLE OF CONTENTS
 182
 
+[page 183]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Global Experience Ofce (GEO) Courses
@@ -9217,6 +9382,7 @@ School of Environment & Sustainability Faculty
 TABLE OF CONTENTS
 183
 
+[page 184]
 BELOIT COLLEGE CATALOG 2025-2027
 
 • Corbin Livingston
@@ -9268,6 +9434,7 @@ School of Global & Public Service Faculty
 TABLE OF CONTENTS
 184
 
+[page 185]
 2025-2027 BELOIT COLLEGE CATALOG
 
 ••
@@ -9318,6 +9485,7 @@ School of Health Sciences Faculty
 TABLE OF CONTENTS
 185
 
+[page 186]
 BELOIT COLLEGE CATALOG 2025-2027
 
 • Kate Linnenberg
@@ -9367,6 +9535,7 @@ School of Media and the Arts Faculty
 TABLE OF CONTENTS
 186
 
+[page 187]
 2025-2027 BELOIT COLLEGE CATALOG
 
 • Cullyn Murphy
@@ -9391,13 +9560,10 @@ Visual Studies Minor (6 units)
 TABLE OF CONTENTS
 187
 
-BELOIT COLLEGE CATALOG 2025-2027
-Majors & Minors
-188
-TABLE OF CONTENTS
-Special Academic Programs
-4
+[page 188]
+BELOIT COLLEGE CATALOG 2025-2027 Majors & Minors 188 TABLE OF CONTENTS Special Academic Programs 4
 
+[page 189]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Special Academic Programs
@@ -9449,6 +9615,7 @@ Alliance for Minority Participation (LSAMP), which is funded by the National Sci
 TABLE OF CONTENTS
 189
 
+[page 190]
 BELOIT COLLEGE CATALOG 2025-2027
 Academic Residencies
 The Scott Crom Visiting Philosopher Program brings distinguished and infuential philosophers to campus
@@ -9503,6 +9670,7 @@ graduates, and a fall forum on career paths.
 TABLE OF CONTENTS
 190
 
+[page 191]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Acadeum
@@ -9554,6 +9722,7 @@ course catalog.
 TABLE OF CONTENTS
 191
 
+[page 192]
 BELOIT COLLEGE CATALOG 2025-2027
 Center for Collections Care
 The Center for Collections Care at Beloit College (C3) provides one-of-a-kind opportunities for hands-
@@ -9606,6 +9775,7 @@ information about the weather in their hometown and compare it to weather in Chi
 TABLE OF CONTENTS
 192
 
+[page 193]
 2025-2027 BELOIT COLLEGE CATALOG
 biography, likes, dislikes, and character, ask and answer questions about getting around their hometown,
 describe familiar neighborhoods, and express opinions on activities and entertainment options in their
@@ -9662,6 +9832,7 @@ on topics like employment and current events. Speaking involves handling various
 TABLE OF CONTENTS
 193
 
+[page 194]
 BELOIT COLLEGE CATALOG 2025-2027
 in informal and formal conversations, linking sentences into coherent paragraph-length discourse. Writing
 skills include composing compositions and summaries related to work or school experiences, incorporating
@@ -9715,6 +9886,7 @@ watch movies and TV programs. (1S)
 TABLE OF CONTENTS
 194
 
+[page 195]
 2025-2027 BELOIT COLLEGE CATALOG
 JAPN 225A. Fourth-Year Japanese II (1). This course covers advanced practice in speaking, reading, writing,
 and listening comprehension in Japanese. For the oral component, students practice both formal and
@@ -9767,6 +9939,7 @@ hobbies, and food. (1S) Prerequisite: Russian 110 or equivalent.
 TABLE OF CONTENTS
 195
 
+[page 196]
 BELOIT COLLEGE CATALOG 2025-2027
 
 RUSS 210A. Third-Year Russian I (1). The task of this course is to master vocabulary and language skills
@@ -9818,6 +9991,7 @@ Health Professions Advisory Committee Staf
 TABLE OF CONTENTS
 196
 
+[page 197]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Pre-Medical Advising Program
@@ -9868,6 +10042,7 @@ Impact Beloit Staf
 TABLE OF CONTENTS
 197
 
+[page 198]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Impact Beloit Courses
@@ -9923,6 +10098,7 @@ taken only once for credit. Ofered each semester, including summer. Graded credi
 TABLE OF CONTENTS
 198
 
+[page 199]
 2025-2027 BELOIT COLLEGE CATALOG
 
 PRAX 202. Introduction to Entrepreneurship (1). This course focuses on the entrepreneurial process and its
@@ -9979,6 +10155,7 @@ students must be current McNair Scholars who will be in junior standing as of th
 TABLE OF CONTENTS
 199
 
+[page 200]
 BELOIT COLLEGE CATALOG 2025-2027
 PRAX 280. Topics in Career-Readiness (.25-1). This course focuses on specifc topics, themes, or areas of
 interest relevant to students’ career and professional development. May be repeated for credit if topic is
@@ -10036,6 +10213,7 @@ semester, including summer. Graded credit/no credit.
 TABLE OF CONTENTS
 200
 
+[page 201]
 2025-2027 BELOIT COLLEGE CATALOG
 PRAX 304. The Art of Leading: Finding Your Voice & Infuencing Change (1). In this class, students learn
 how to lead, no matter who they are, no matter what they want to pursue in life. Students study leadership
@@ -10090,6 +10268,7 @@ PRAX 395. Teaching Assistant (.5). Work with faculty in classroom instruction. G
 TABLE OF CONTENTS
 201
 
+[page 202]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Morse Library
@@ -10139,6 +10318,7 @@ each exercise targets. They learn about diferent types of weight for power and s
 TABLE OF CONTENTS
 202
 
+[page 203]
 2025-2027 BELOIT COLLEGE CATALOG
 
 weight, and training for tone. Students learn how to set up their own training programs based on the goals
@@ -10191,6 +10371,7 @@ Law Preparation Advising portion of this chapter.
 TABLE OF CONTENTS
 203
 
+[page 204]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Pre-Med/Pre-Health Professions
@@ -10242,6 +10423,7 @@ experience, such as CNA or EMT, which provides real world healthcare profciency.
 TABLE OF CONTENTS
 204
 
+[page 205]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Professional Language Training
@@ -10292,6 +10474,7 @@ Writing Program Faculty
 TABLE OF CONTENTS
 205
 
+[page 206]
 BELOIT COLLEGE CATALOG 2025-2027
 Writing Program Courses
 WRIT 100. Writing Seminar (.5, 1). The course focuses on developing students’ writing skills. Each section of
@@ -10329,13 +10512,10 @@ WRIT 395. Teaching Assistant (.5). Work with faculty in classroom instruction. G
 TABLE OF CONTENTS
 206
 
-2025-2027 BELOIT COLLEGE CATALOG
-207
-TABLE OF CONTENTS
-Majors & Minors
-Admission, Tuition, & Financial Aid
-5
+[page 207]
+2025-2027 BELOIT COLLEGE CATALOG 207 TABLE OF CONTENTS Majors & Minors Admission, Tuition, & Financial Aid 5
 
+[page 208]
 BELOIT COLLEGE CATALOG 2025-2027
 Admission
 The college admits applicants who appear to be best qualifed to beneft from and contribute to its
@@ -10384,6 +10564,7 @@ enrollment.
 TABLE OF CONTENTS
 208
 
+[page 209]
 2025-2027 BELOIT COLLEGE CATALOG
 Transfer Applicants
 Applications for transfer from accredited colleges and universities to Beloit for entrance in August or
@@ -10432,6 +10613,7 @@ information to the college may make a student ineligible for admission to the co
 TABLE OF CONTENTS
 209
 
+[page 210]
 BELOIT COLLEGE CATALOG 2025-2027
 Advanced Placement and Credit
 Up to 8 units of credit may be applied toward graduation from tests administered outside the college, as
@@ -10470,6 +10652,7 @@ students.
 TABLE OF CONTENTS
 210
 
+[page 211]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Payment
@@ -10516,6 +10699,7 @@ ordering transcripts may be found at www.beloit.edu/ofces/registrar/.
 TABLE OF CONTENTS
 211
 
+[page 212]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Refunds
@@ -10560,6 +10744,7 @@ More information is available at Policies – Bursar & Tuition – Beloit Colleg
 TABLE OF CONTENTS
 212
 
+[page 213]
 2025-2027 BELOIT COLLEGE CATALOG
 Financial Aid Return of Title IV Funds (R2T4)
 Students receiving fnancial assistance who withdraw or change to an authorized vacation term after a
@@ -10612,6 +10797,7 @@ Net Price Calculator – Financial Aid – Beloit College. The Financial Aid Ofc
 TABLE OF CONTENTS
 213
 
+[page 214]
 BELOIT COLLEGE CATALOG 2025-2027
 (faofce@beloit.edu) or phone (608-363-2663).
 Financial Aid Application Procedures
@@ -10662,6 +10848,7 @@ The Federal Direct Loan programs require borrowers to be enrolled in a minimum o
 TABLE OF CONTENTS
 214
 
+[page 215]
 2025-2027 BELOIT COLLEGE CATALOG
 Work Study
 Many work study employment opportunities exist for students on campus. All Beloit College students
@@ -10711,6 +10898,7 @@ Must maintain 2.0 GPA or higher.
 TABLE OF CONTENTS
 215
 
+[page 216]
 BELOIT COLLEGE CATALOG 2025-2027
 Completion Rate
 Must successfully complete and earn credit for 67% or more of the units in which the student enrolls.
@@ -10761,6 +10949,7 @@ Bursar & Tuition – Beloit College.
 TABLE OF CONTENTS
 216
 
+[page 217]
 2025-2027 BELOIT COLLEGE CATALOG
 For example, if a student’s tuition charge is reduced to 20% of the original semester’s charge, the student is
 eligible to retain 20% of their institutional scholarship, grant, and or loan.
@@ -10772,12 +10961,10 @@ Assistance – Financial Aid – Beloit College.
 TABLE OF CONTENTS
 217
 
-BELOIT COLLEGE CATALOG 2025-2027
-218
-TABLE OF CONTENTS
-Majors & Minors
-Academic Calendars
+[page 218]
+BELOIT COLLEGE CATALOG 2025-2027 218 TABLE OF CONTENTS Majors & Minors Academic Calendars
 
+[page 219]
 2025-2027 BELOIT COLLEGE CATALOG
 
 2025 Fall Semester Academic Calendar
@@ -10830,6 +11017,7 @@ Dec 15, Mon Final grades due
 TABLE OF CONTENTS
 219
 
+[page 220]
 BELOIT COLLEGE CATALOG 2025-2027
 
 2026 Spring Semester Academic Calendar
@@ -10878,6 +11066,7 @@ Jul 6, Mon Incompletes from Spring due
 TABLE OF CONTENTS
 220
 
+[page 221]
 2025-2027 BELOIT COLLEGE CATALOG
 
 2026 Summer Term Academic Calendar
@@ -10916,6 +11105,7 @@ Summer Term ends
 TABLE OF CONTENTS
 221
 
+[page 222]
 BELOIT COLLEGE CATALOG 2025-2027
 
 2026 Fall Semester Academic Calendar
@@ -10966,6 +11156,7 @@ Dec 14, Mon Final grades due
 TABLE OF CONTENTS
 222
 
+[page 223]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Majors & Minors
@@ -11025,6 +11216,7 @@ Jul 5, Mon Incompletes from Spring due
 TABLE OF CONTENTS
 223
 
+[page 224]
 BELOIT COLLEGE CATALOG 2025-2027
 
 2027 Summer Term Academic Calendar
@@ -11059,6 +11251,5 @@ Aug 9, Mon Summer Term ends
 TABLE OF CONTENTS
 224
 
-2025-2027 BELOIT COLLEGE CATALOG
-TABLE OF CONTENTS
-225
+[page 225]
+2025-2027 BELOIT COLLEGE CATALOG TABLE OF CONTENTS 225

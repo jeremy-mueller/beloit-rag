@@ -2,7 +2,7 @@ id: registrar-course-registration-current-students
 title: Registrar: Course Registration for Current Students
 source: https://www.beloit.edu/offices/registrar/course-registration/current-students/
 kind: html
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
 Related Links
 Current Students

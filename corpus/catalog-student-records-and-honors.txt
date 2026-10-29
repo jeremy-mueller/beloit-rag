@@ -2,8 +2,9 @@ id: catalog-student-records-and-honors
 title: Catalog: Student Records Directory Information and Departmental Honors
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 17-19
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 17]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Incompletes: Incomplete grades shall be granted only in cases of serious illness or injury, family crisis, or
@@ -56,6 +57,7 @@ information, the student may fle an appeal or place a written explanation of the
 TABLE OF CONTENTS
 17
 
+[page 18]
 BELOIT COLLEGE CATALOG 2025-2027
 
 College “directory information” may be made available to the public unless a student acts to restrict such
@@ -113,6 +115,7 @@ earned a grade point average of 3.800. Such honors are recorded on the student�
 TABLE OF CONTENTS
 18
 
+[page 19]
 2025-2027 BELOIT COLLEGE CATALOG
 
 record.

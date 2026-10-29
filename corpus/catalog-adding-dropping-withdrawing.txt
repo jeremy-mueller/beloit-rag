@@ -2,8 +2,9 @@ id: catalog-adding-dropping-withdrawing
 title: Catalog: Adding Dropping and Withdrawing from Courses
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 13-14
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 13]
 2025-2027 BELOIT COLLEGE CATALOG
 
 an administrative drop may be administratively withdrawn from the semester unless they receive
@@ -54,6 +55,7 @@ may register for a maximum of 4.75 units.
 TABLE OF CONTENTS
 13
 
+[page 14]
 BELOIT COLLEGE CATALOG 2025-2027
 On or after the frst day of classes for a given term, students wishing to elect units in excess of 4.75 may do
 so with the written authorization of both the major advisor and the registrar. Such approval requires that

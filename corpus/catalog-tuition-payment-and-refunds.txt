@@ -2,8 +2,9 @@ id: catalog-tuition-payment-and-refunds
 title: Catalog: Tuition Payment and Refund Schedule
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 210-212
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 210]
 BELOIT COLLEGE CATALOG 2025-2027
 Advanced Placement and Credit
 Up to 8 units of credit may be applied toward graduation from tests administered outside the college, as
@@ -42,6 +43,7 @@ students.
 TABLE OF CONTENTS
 210
 
+[page 211]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Payment
@@ -88,6 +90,7 @@ ordering transcripts may be found at www.beloit.edu/ofces/registrar/.
 TABLE OF CONTENTS
 211
 
+[page 212]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Refunds

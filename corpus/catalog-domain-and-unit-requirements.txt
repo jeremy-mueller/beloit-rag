@@ -2,8 +2,9 @@ id: catalog-domain-and-unit-requirements
 title: Catalog: Liberal Arts Domain and Unit Requirements
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 9-11
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 9]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Synthesis of Multiple Experiences
@@ -56,6 +57,7 @@ may not be granted junior status until they have completed these requirements.
 TABLE OF CONTENTS
 9
 
+[page 10]
 BELOIT COLLEGE CATALOG 2025-2027
 
 The fve domain requirements are:
@@ -106,6 +108,7 @@ unless the course is designated as repeatable.
 TABLE OF CONTENTS
 10
 
+[page 11]
 2025-2027 BELOIT COLLEGE CATALOG
 
 e. No more than 4 units of coursework ofered in physical education, recreation, and athletics (PEC,

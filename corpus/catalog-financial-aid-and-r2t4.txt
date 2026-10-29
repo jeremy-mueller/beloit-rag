@@ -2,8 +2,9 @@ id: catalog-financial-aid-and-r2t4
 title: Catalog: Financial Aid Application Procedure and Return of Title IV Funds
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 213-215
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 213]
 2025-2027 BELOIT COLLEGE CATALOG
 Financial Aid Return of Title IV Funds (R2T4)
 Students receiving fnancial assistance who withdraw or change to an authorized vacation term after a
@@ -56,6 +57,7 @@ Net Price Calculator – Financial Aid – Beloit College. The Financial Aid Ofc
 TABLE OF CONTENTS
 213
 
+[page 214]
 BELOIT COLLEGE CATALOG 2025-2027
 (faofce@beloit.edu) or phone (608-363-2663).
 Financial Aid Application Procedures
@@ -106,6 +108,7 @@ The Federal Direct Loan programs require borrowers to be enrolled in a minimum o
 TABLE OF CONTENTS
 214
 
+[page 215]
 2025-2027 BELOIT COLLEGE CATALOG
 Work Study
 Many work study employment opportunities exist for students on campus. All Beloit College students

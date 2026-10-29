@@ -2,7 +2,7 @@ id: registrar-transcripts-diplomas
 title: Registrar: Transcripts, Diplomas, and Verification Letters
 source: https://www.beloit.edu/offices/registrar/transcripts-diplomas-verification-letters/
 kind: html
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
 Related Links
 Transcripts, Diplomas, & Verification Letters

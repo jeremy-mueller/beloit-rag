@@ -2,8 +2,9 @@ id: catalog-data-science-data-analytics
 title: Catalog: Data Science and Data Analytics Major and Minor
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 56-58
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 56]
 BELOIT COLLEGE CATALOG 2025-2027
 
 CRIS 269. Topics in Critical Identity Studies: History Topic (.5, 1). History topics important to the feld of
@@ -54,6 +55,7 @@ recommended).
 TABLE OF CONTENTS
 56
 
+[page 57]
 2025-2027 BELOIT COLLEGE CATALOG
 
 b. Biology: one 100-level biology course and 247; either 215 or 372.
@@ -103,6 +105,7 @@ units are allowed to be double counted.
 TABLE OF CONTENTS
 57
 
+[page 58]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Departmental Honors in Data Science & Data Analytics

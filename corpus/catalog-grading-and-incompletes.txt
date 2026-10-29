@@ -2,8 +2,9 @@ id: catalog-grading-and-incompletes
 title: Catalog: Grading System and Incompletes
 source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 16-17
-retrieved: 2026-10-27
+retrieved: 2026-10-29
 ------------------------------------------------------------
+[page 16]
 BELOIT COLLEGE CATALOG 2025-2027
 
 Grading
@@ -55,6 +56,7 @@ guaranteed.
 TABLE OF CONTENTS
 16
 
+[page 17]
 2025-2027 BELOIT COLLEGE CATALOG
 
 Incompletes: Incomplete grades shall be granted only in cases of serious illness or injury, family crisis, or
