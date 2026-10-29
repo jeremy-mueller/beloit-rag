@@ -4,7 +4,6 @@ source: https://www.beloit.edu/offices/financial-aid/requesting-additional-finan
 kind: html
 retrieved: 2026-10-29
 ------------------------------------------------------------
-Related Links
 Requesting Additional Financial Assistance
 Beloit College strives to create a comprehensive financial aid offer to make Beloit accessible to all. We recognize students and families may encounter special circumstances or emergencies that may change or impact a family’s ability to pay.
 Beloit College has two avenues for students and their families to request financial assistance.
@@ -13,6 +12,7 @@ Beloit College has two avenues for students and their families to request financ
 There is one application process for both programs. Complete the application and submit the application along with the proper documentation to the Financial Aid Office. Your application will be reviewed for one or both programs to see which one you may be eligible for.
 Prospective students entering Fall 2027 or Spring 2028:
 Please visit our Forms page to view the 2027-28 academic year form.
+Reconsideration of Financial Aid Appeal
 Beloit College understands that financial circumstances may change and affect your ability to pay our Beloit College bill. In this case, the Financial Aid Office will reconsider the assistance offered, upon request.
 The Request for Reconsideration of Financial Aid Appeal is designed to allow students the opportunity to request a re-evaluation of the original financial aid package based upon circumstances they believe deserve consideration. You must file the most recent Free Application for Federal Student Aid (FAFSA) to receive consideration. If approved, the student’s federal financial aid award may increase.
 International students to request a re-evaluation of your financial aid package must submit a current International Student Financial Aid Application
@@ -21,6 +21,7 @@ Reasons to request a financial aid reconsideration include but not limited to:
 - Unreimbursed medical and dental expenses
 - Unusual expenses - catastrophic losses due to natural disasters, casualty or theft not covered by insurance, family member’s funeral expenses, regular and significant support of other family members
 - Other unusual circumstances - parents income included one-time IRA distributions or inheritance
+Beloit College Student Emergency Aid Program
 The Student Emergency Aid Program was designed to support enrolled students who encounter an emergency or catastrophic event that creates a temporary financial hardship that adversely affects their ability to stay enrolled at Beloit College. These are one-time funds, rather than a permanent change to a student’s education funding sources. Emergency grants are not renewable and do not have to be repaid. Covered expenses through the Student Emergency Aid Program include:
 - Unpaid tuition and fees
 - Books and supplies
@@ -40,6 +41,7 @@ Must have experienced an extenuating circumstance that results in a temporary fi
 Must accept all financial aid awarded (loans, grants, work study, and any additional aid - i.e., additional offered loans)
 
 - Additional loans may be awarded as part of the committee’s decision which must be repaid
+Process to Apply
 Eligible students who wish to be considered for additional financial assistance must submit the Request for Additional Financial Assistance Form to the Financial Aid Office following the process below:
 - Submit a completed Request for Additional Financial Assistance Form with all of the necessary documents listed on the form. Documents may be submitted using our secure document upload site.
 - For international students to request a re-evaluation of your financial aid package, you must submit a current International Student Financial Aid Application.
