@@ -5,34 +5,6 @@ kind: pdf pages 17-19
 retrieved: 2026-10-29
 ------------------------------------------------------------
 [page 17]
-2025-2027 BELOIT COLLEGE CATALOG
-
-Incompletes: Incomplete grades shall be granted only in cases of serious illness or injury, family crisis, or
-some other substantiated unforeseen circumstance beyond the control of the student that would make it
-impossible to complete all course requirements by the end of the semester. Incompletes are only an option
-if the student has extenuating circumstances that occur in the last two weeks of a traditional term, or if the
-student experienced extenuating circumstances earlier in the term and was unable to catch up with the
-work, despite good faith eforts to do so. An incomplete is intended for special circumstances where stu-
-dents have a very limited number of remaining assignments due. A student may not receive an incomplete
-for a course because of failure to complete required assignments on time and/or because of a signifcant
-number of absences occurring during the course of the term.
-Students who believe they can demonstrate a legitimate need for an incomplete should:
-1. Obtain a Request for an Incomplete form from the Registrar’s Ofce.
-2.Seek instructor approval to take an incomplete and establish the terms.
-3.Return the form to the Registrar’s Ofce.
-The earliest a student may apply for an incomplete is two weeks before the last day of classes; the last day
-for a student to complete this process is the last fnal exam day. In cases of illness or injury occurring at the
-end of the semester, notifcation from the Dean of Students’ Ofce staf to the registrar will sufce to initiate
-the process.
-Unless the instructor stipulates a shorter time period for completion of the work, an incomplete must be
-satisfed within eight weeks of the last fnal exam day of the semester. In exceptional cases (e.g., lengthy
-illness) the instructor may petition the Academic Performance Committee or its designee to extend the
-period of the incomplete.
-A regular letter grade will be recorded upon notifcation by the instructor to the registrar. Incompletes
-normally will convert to the grade of “F” at the end of the eight-week period unless a request for an
-extension has been approved. As long as an “I” remains on the student record for a course, a student may
-not be enrolled for credit in any course that has that course as a stated prerequisite. A student may not
-graduate while an “I” remains on the record.
 Student Records, Grade Reports, and Transcripts
 Grade Reports: Grades are reported to students, their faculty advisors, and the dean of students at the end
 of each term. Reports of unsatisfactory work are made to students and their advisors as may be required.
@@ -54,12 +26,8 @@ that are maintained by the college and contain information directly related to t
 by appointment with the registrar. Students may challenge information which they consider inaccurate
 or misleading, and if the custodian of the record refuses a request for modifcation or removal of the
 information, the student may fle an appeal or place a written explanation of the challenge in the fle.
-TABLE OF CONTENTS
-17
 
 [page 18]
-BELOIT COLLEGE CATALOG 2025-2027
-
 College “directory information” may be made available to the public unless a student acts to restrict such
 release by written notice to the registrar by the end of the frst week of classes during any given semester.
 “Directory information” includes the student’s name, address, telephone listing, date of birth, academic
@@ -112,12 +80,8 @@ point average, computed at the time of graduation. To be graduated cum laude, a 
 earned a grade point average of 3.400; to be graduated magna cum laude, a student is required to have
 earned a grade point average of 3.600; to be graduated summa cum laude, a student is required to have
 earned a grade point average of 3.800. Such honors are recorded on the student’s diploma and permanent
-TABLE OF CONTENTS
-18
 
 [page 19]
-2025-2027 BELOIT COLLEGE CATALOG
-
 record.
 Departmental Honors: Departmental honors work ofers the promising student individual counsel and su-
 pervision in the accomplishment of a creative or scholarly project, pursued with intensity and freedom that
@@ -147,5 +111,3 @@ placed on the dean’s list.
 The student must have taken at least 3 graded units for the term and may not have received a grade of “F”
 or “I” in any course that semester. Students on academic probation or with incompletes from previous terms
 cannot earn dean’s list recognition.
-TABLE OF CONTENTS
-19

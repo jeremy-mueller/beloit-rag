@@ -5,33 +5,6 @@ kind: pdf pages 7-9
 retrieved: 2026-10-29
 ------------------------------------------------------------
 [page 7]
-2025-2027 BELOIT COLLEGE CATALOG
-
-Social Analysis of Human Behavior
-This domain (“3B” in course descriptions) concerns social analysis as a way of understanding human
-behavior. Students explore approaches and models that enhance our understanding of human behavior
-within a variety of cultural and social contexts, both contemporary and historical. This domain encompasses
-a range of methodological approaches, both qualitative and quantitative. Typically, courses ofer theoretical/
-analytical approaches to the study of human behavior that relate to empirical data. These courses may also
-address the implications of social science research for public policy formation.
-Examples of Social Analysis of Human Behavior courses may include history, anthropology, religious studies,
-economics, and political science.
-Scientifc Inquiry into the Physical and Biological Universe
-This domain (“4U” in course descriptions) concerns scientifc inquiry as an approach to comprehending the
-physical and biological universe. In these courses, students formulate and test hypotheses about the physical
-and biological universe by gathering, analyzing, and interpreting empirical data in laboratory and/or feld
-settings. Students develop abilities to evaluate scientifc evidence and may also develop an understanding of
-the applications of science for local, national, and global issues.
-Examples of Scientifc Inquiry into the Physical and Biological Universe courses are those that emphasize
-scientifc inquiry in the study of the physical and biological sciences and biologically-oriented anthropology
-and psychology.
-Textual Cultures and Analysis
-This domain (“5T” in course descriptions) concerns the study and critical analysis of texts, examining the
-connections and coherence among their parts and the cultural, social, philosophical, and/or historical
-contexts from which they stem. Students learn how to engage texts, both as reader and respondent, and
-they develop the interpretative and analytic skills necessary for responsible engagement with texts.
-Examples of Textual Cultures and Analysis courses may include literature, philosophy, history, and social
-sciences.
 Skill Requirements
 Intercultural Literacy
 Students complete a minimum of 1 intercultural literacy-designated course (“C” in the online course
@@ -49,12 +22,8 @@ writing component.
 • Instructors use classroom time, design assignments, and provide activities to address writing strategies
 and outcomes.
 • Students draft and write in response to instructor feedback.
-TABLE OF CONTENTS
-7
 
 [page 8]
-BELOIT COLLEGE CATALOG 2025-2027
-
 Quantitative Reasoning
 Students complete a minimum of 1 quantitative reasoning-designated course (“Q” in the online course
 schedule):
@@ -100,12 +69,8 @@ equivalent of 1 unit of credit is required to meet the Experience requirement.
 Study Abroad/Of-Campus Study
 This experience must be arranged through the Global Experience Ofce (GEO) and students must complete
 the preparation and refection activities required by GEO in order to qualify for the Experience requirement.
-TABLE OF CONTENTS
-8
 
 [page 9]
-2025-2027 BELOIT COLLEGE CATALOG
-
 Synthesis of Multiple Experiences
 Students connect one or more experiences beyond the traditional classroom with their academic
 development. These experiences may include co-curriculars, work, of-campus activities, campus or
@@ -148,10 +113,3 @@ ments.
 of 1 designated intercultural literacy course. (“C” in the online course schedule.) The course used for the
 intercultural literacy requirement may not be used for the writing or quantitative reasoning requirements.
 Each of the above requirements must be satisfed with a diferent course.
-4. Completion of the college’s liberal arts breadth requirements.
-All students must complete the college’s liberal arts breadth requirements by completing at least .75 unit or
-2 courses. Each domain requirement must be satisfed by a diferent course prefx (e.g., PSYC, BIOL, HIST,
-CRIS). All requirements should normally be completed by the end of the student’s fourth semester. Students
-may not be granted junior status until they have completed these requirements.
-TABLE OF CONTENTS
-9

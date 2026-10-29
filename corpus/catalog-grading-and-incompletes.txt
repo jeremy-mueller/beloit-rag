@@ -5,8 +5,6 @@ kind: pdf pages 16-17
 retrieved: 2026-10-29
 ------------------------------------------------------------
 [page 16]
-BELOIT COLLEGE CATALOG 2025-2027
-
 Grading
 Range of Grades: Grades are awarded within a range from “A” through “F,” in which “A” signifes unusual abil-
 ity and distinctive achievement; “B” signifes articulate, above-average performance; “C” signifes satisfactory
@@ -53,12 +51,8 @@ repeated for credit if the topic is diferent
 Faculty of the repeated course will be able to determine if/ when a student may repeat the course.
 Enrollment in a repeated course is subject to availability of and space in the course, which are not
 guaranteed.
-TABLE OF CONTENTS
-16
 
 [page 17]
-2025-2027 BELOIT COLLEGE CATALOG
-
 Incompletes: Incomplete grades shall be granted only in cases of serious illness or injury, family crisis, or
 some other substantiated unforeseen circumstance beyond the control of the student that would make it
 impossible to complete all course requirements by the end of the semester. Incompletes are only an option
@@ -85,26 +79,3 @@ normally will convert to the grade of “F” at the end of the eight-week perio
 extension has been approved. As long as an “I” remains on the student record for a course, a student may
 not be enrolled for credit in any course that has that course as a stated prerequisite. A student may not
 graduate while an “I” remains on the record.
-Student Records, Grade Reports, and Transcripts
-Grade Reports: Grades are reported to students, their faculty advisors, and the dean of students at the end
-of each term. Reports of unsatisfactory work are made to students and their advisors as may be required.
-Under the Family Educational Rights and Privacy Act of 1974 (FERPA), as amended, the college has a re-
-sponsibility to maintain the privacy of academic records. At the end of each semester, grade reports are
-available to students for viewing through the Portal, the web-based interface to the Jenzabar administrative
-database used at Beloit College. A student may request in writing that fnal grades be sent to the parent(s).
-Transcripts: The college maintains records for each student, both for campus reference use and as a service
-to the student. These records are cumulative both in time and in interest, including not only an academic
-record of each term the student is in college, but also information on honors received, fnancial needs, and
-educational and occupational plans.
-Permanent records are confdential between the student and the college. Students may request transcripts
-of their permanent academic records at any time; however, transcripts will not be released without the
-student’s authorizing signature and approval from the Accounting Ofce. Requests for transcripts may be
-submitted online using the instructions found at www.beloit.edu/ofces/ registrar/transcripts-diplomas-
-verifcation-letters/. A fee is charged for each transcript issued.
-In accordance with FERPA, students who wish to review records, fles, documents, and other materials
-that are maintained by the college and contain information directly related to the student may do so
-by appointment with the registrar. Students may challenge information which they consider inaccurate
-or misleading, and if the custodian of the record refuses a request for modifcation or removal of the
-information, the student may fle an appeal or place a written explanation of the challenge in the fle.
-TABLE OF CONTENTS
-17

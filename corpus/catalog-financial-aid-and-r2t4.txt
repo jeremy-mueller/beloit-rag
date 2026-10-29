@@ -4,8 +4,6 @@ source: https://www.beloit.edu/live/files/1061-2025-2027-beloit-college-catalog
 kind: pdf pages 213-215
 retrieved: 2026-10-29
 ------------------------------------------------------------
-[page 213]
-2025-2027 BELOIT COLLEGE CATALOG
 Financial Aid Return of Title IV Funds (R2T4)
 Students receiving fnancial assistance who withdraw or change to an authorized vacation term after a
 regular academic term has begun must go through an additional calculation. This will determine how
@@ -54,11 +52,8 @@ Students and parents who have questions concerning fnancial aid are encouraged t
 Financial Aid Ofce. Additionally, an interactive fnancial aid calculator is available on Beloit’s website for
 those prospective students and parents who would like an early estimate of potential fnancial aid eligibility:
 Net Price Calculator – Financial Aid – Beloit College. The Financial Aid Ofce may be reached by email
-TABLE OF CONTENTS
-213
 
 [page 214]
-BELOIT COLLEGE CATALOG 2025-2027
 (faofce@beloit.edu) or phone (608-363-2663).
 Financial Aid Application Procedures
 Beloit College requires need-based aid applicants to submit the Free Application for Federal Student
@@ -105,11 +100,8 @@ superior to loans obtained through other commercial channels. The college is als
 loan opportunities and directs students to additional informational resources to make informed borrowing
 choices.
 The Federal Direct Loan programs require borrowers to be enrolled in a minimum of 1.5 units or more.
-TABLE OF CONTENTS
-214
 
 [page 215]
-2025-2027 BELOIT COLLEGE CATALOG
 Work Study
 Many work study employment opportunities exist for students on campus. All Beloit College students
 receive a work study award. Beloit College participates in the federal work study program, and this
@@ -147,13 +139,3 @@ residential life, a student may be enrolled at less than full-time status and st
 In these cases, the aid will be proportionate to the enrollment status. For example, a student with a $10,000
 per semester Beloit College scholarship who enrolls at half-time status will only receive $5,000 of Beloit
 College scholarship for that semester.
-Satisfactory Academic Progress
-Students must meet certain academic standards to renew their fnancial aid package each semester. The
-intent of these standards is to ensure each student is successfully completing their degree requirements at a
-satisfactory pace. To view the full policy, please visit Satisfactory Academic Progress – Financial Aid – Beloit
-College.
-Three academic standards are required to retain eligibility for federal, state, and institutional fnancial aid:
-Cumulative GPA
-Must maintain 2.0 GPA or higher.
-TABLE OF CONTENTS
-215

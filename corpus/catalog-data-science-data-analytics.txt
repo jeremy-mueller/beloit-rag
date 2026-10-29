@@ -5,29 +5,6 @@ kind: pdf pages 56-58
 retrieved: 2026-10-29
 ------------------------------------------------------------
 [page 56]
-BELOIT COLLEGE CATALOG 2025-2027
-
-CRIS 269. Topics in Critical Identity Studies: History Topic (.5, 1). History topics important to the feld of
-critical identity studies. May be repeated for credit if topic is diferent. (5T) The un-domained version of this
-course is Critical Identity Studies 270.
-CRIS 350. Doing Community Capstone (1). This course helps students assess how their critical study of
-identity and their liberal arts education have helped them remake knowledge for themselves and others.
-Students refect on their experiences and examine the behaviors, practices, and habits of mind they have
-developed at Beloit. The course culminates in “doing community” through a micro-intervention project
-that aims to make the college more inclusive. Students learn strategies for seeking mentorship, developing
-as professionals, launching their post-Beloit careers, and navigating diferent organizational cultures. By
-the end of the course, each student produces a robust portfolio for job search or graduate school. (CP)
-Prerequisites: Critical identity studies major or minor, or permission of instructor.
-CRIS 360. Advanced Topics in Critical Identity Studies (.5, 1). This advanced-level course takes up topics
-important to the feld of critical identity studies and will be ofered to take advantage of faculty or student
-interest. May be repeated for credit if topic is diferent. Prerequisite: Critical Identity Studies 101.
-CRIS 390. Special Project (.25-1). Individual work under faculty supervision, with evaluation based on
-appropriate evidence of achievement. Prerequisite: sophomore standing.
-CRIS 392. Senior Thesis (.5, 1). The writing of a substantial paper or project based on independent study or
-project. Qualifed students are invited to apply in the fall of their senior year.
-CRIS 395. Teaching Assistant (.5). Work with faculty in research or classroom instruction. Graded credit/no
-credit. Prerequisite: consent of instructor.
-CRIS 396. Research Assistant (.5). Work with faculty doing research. Prerequisite: consent of instructor.
 Data Science & Data Analytics
 Majoring in data science or data analytics at Beloit, you will learn not only how to work with data, but
 also the humanistic foundation of data work. You will acquire career-ready skills that will position you, at
@@ -52,8 +29,6 @@ Media Studies 150, Writing 215.
 5. One disciplinary specialty chosen from the following (3 units, unless otherwise indicated):
 a. Anthropology: Two units chosen from any 100-level anthropology courses; 240 (201 and 225 are
 recommended).
-TABLE OF CONTENTS
-56
 
 [page 57]
 2025-2027 BELOIT COLLEGE CATALOG
@@ -102,12 +77,8 @@ m. Sports Analytics: Economics 199, 202, 251, 300.
 6. Data Science and Data Analytics 310 (.5).
 If students majoring in data science or data analytics want to major or minor in another discipline, up to four
 units are allowed to be double counted.
-TABLE OF CONTENTS
-57
 
 [page 58]
-BELOIT COLLEGE CATALOG 2025-2027
-
 Departmental Honors in Data Science & Data Analytics
 Students may apply to be considered for departmental honors if they have:
 1. Academic Achievement: The candidate must demonstrate a high academic performance across the
@@ -119,43 +90,3 @@ the last day to add one-unit courses for the last on-campus term as a regular fu
 thorough knowledge of the feld done by others. The project may be a summer research experience or
 similar work done outside of the curriculum.
 Presentation: An honors student in DSDA must present their work to a public audience on- or of-campus.
-Data Science & Data Analytics Courses
-DSDA 210. Introduction to Data Science and Data Analytics (.5). In this course students learn what data
-work involves, including a discussion of data ethics, and get introduced to popular data tools such as R,
-Tableau, SQL. Students also learn what a career in data work looks like, and they get to connect with an
-alumnus/a in data science/analytics to learn more about the feld from a practitioner.
-DSDA 215. Data Visualization (.5). Data visualization is the process by which information is displayed in
-graphical form, to investigate patterns in datasets and communicate results. This course covers methods
-of data visualization, centering on two areas: data visualization as exploration and data visualization as
-communication. Students discuss univariate, bivariate, and multivariate comparisons and use multiple
-programs to generate visualizations. Each student will create a fnal portfolio project on a topic of their
-choice. Prerequisite: none, but preference given to data science and data analytics majors.
-DSDA 310. Senior Seminar in Data Science and Data Analytics: Harnessing Data for the Common Good
-(.5). As the senior seminar in data science and data analytics, this course provides a synthesis of concepts
-and skills learned by DSDA majors and minors during their time at Beloit. Afliate faculty in departments
-across the college discuss the importance and meaning of data in their disciplines. Students complete a
-senior portfolio showcasing their work in data science and analytics and preparing for post-Beloit education
-and employment. (CP) Prerequisite: senior standing.
-DSDA 345. Data Mining (1). This course discusses several data mining techniques to identify novel patterns
-from large scale databases that might not be available at the current level of process. Topics related to data
-processing, data visualization, data exploration, prediction, classifcation, anomaly detection, association
-analysis, and clustering are covered. Students work on several projects in order to employ data mining tools
-and techniques such as decision trees, support vector machine, Bayesian classifers, and neural networks-
-mean clustering to solve some problems in the feld of data science. Ofered odd years, spring semester.
-Prerequisite: junior standing and Computer Science 204. Recommended: Mathematics 205 and 275.
-DSDA 370. Special Topics in Data Science/Data Analytics (.25 - 1). Special topic in data science/analytics
-as chosen by instructor. Depending on the instructor and course content, prerequisites vary, but normally
-students should have fnished at least CSCI 111 “Intro to Programming”, and one intro-level statistics or
-quantitative methods course.
-DSDA 385. Machine Learning Capstone (1). An introduction to the three types of machine learning: 1)
-supervised learning, 2) unsupervised learning, and 3) reinforcement learning. Students work individually or
-in teams on real world datasets from diferent felds to implement machine learning algorithms/approaches
-and evaluate their performance, including presentations of work oriented to audiences in the related feld.
-Students study professional, ethical, and social issues related to data science. Python is used as the main
-programming language in this course. (CP) Ofered even years, spring semester. Prerequisite: Data Science
-and Data Analytics 345.
-DSDA 386. Data Clinic Capstone (.5-1). Students work on a real data project for a “client” under the supervi-
-sion and guidance of a faculty member. This project counts as a capstone experience. Prerequisites: at least
-junior status.
-TABLE OF CONTENTS
-58

@@ -5,30 +5,6 @@ kind: pdf pages 14-15
 retrieved: 2026-10-29
 ------------------------------------------------------------
 [page 14]
-BELOIT COLLEGE CATALOG 2025-2027
-On or after the frst day of classes for a given term, students wishing to elect units in excess of 4.75 may do
-so with the written authorization of both the major advisor and the registrar. Such approval requires that
-the student have a minimum grade point average of 3.200 and no incompletes. Approval shall be made only
-after evaluating the student’s academic progress and the reasonableness of his or her program. No student
-may register for more than 5.50 units in either the fall or the spring term. Students seeking an exception to
-this policy may petition the Academic Performance Committee.
-For details and deadlines, see: www.beloit.edu/registrar/.
-Dropping and Adding Courses
-In order to register and add/drop courses, a student must be cleared by their advisor. After the end of the
-frst week of the term, any changes in course selection must be approved by the student’s advisor and the
-course instructor. Adds after the published deadlines on the academic calendar must also be approved by
-the registrar and are assessed a $25 per course late fee.
-A course dropped at any point prior to the beginning of the second half of the course will be expunged from
-the student’s record. If a course is dropped after this date, the grade of “F” will be recorded unless a late
-drop or the grade of “WP” has been approved by the Academic Performance Committee upon petition from
-the student.
-Students intending to drop courses must indicate their intent to the registrar prior to the drop deadline by
-submitting a drop card signed by the instructor and advisor. Failure to turn in the signed card on time will
-result in a fne of $25 for each course dropped at a later date. The request for a late drop must be submitted
-to the Academic Performance Committee, along with substantiation or verifcation of the extenuating
-circumstances. If the request is not approved, the student must be graded in the course. A petition for a
-late drop will be considered only if the request is submitted within one calendar year from the end of the
-semester in which the student was enrolled in the course.
 Academic Standing
 Classifcation: Regular undergraduate students who matriculate at Beloit College are classifed as frst-year
 students, sophomores, juniors, or seniors, depending on course units earned and are assigned an expected
@@ -52,12 +28,8 @@ in its decisions by certain minimal standards.
 Any student may be warned, placed on probation, placed on academic suspension, or dismissed at any time
 by the Academic Performance Committee for marked defciency in scholarship or for continued absences
 from classes.
-TABLE OF CONTENTS
-14
 
 [page 15]
-2025-2027 BELOIT COLLEGE CATALOG
-
 Academic Warning: Students may be placed on academic warning for excessive incompletes and/or a term
 average between 2.0 and 1.85.
 Academic Probation: Students may be placed on academic probation for a term average below 1.85; a cu-
@@ -103,5 +75,3 @@ to the Academic Performance Committee that previous work at Beloit be re-evaluat
 the same basis as credits ofered in transfer. A minimum of 16 units of credit for graduation must be com-
 pleted at Beloit College after a student is readmitted. Students who interrupted their enrollment for military
 service and have been readmitted are not required to complete 16 units after readmission.
-TABLE OF CONTENTS
-15

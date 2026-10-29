@@ -5,21 +5,6 @@ kind: pdf pages 210-212
 retrieved: 2026-10-29
 ------------------------------------------------------------
 [page 210]
-BELOIT COLLEGE CATALOG 2025-2027
-Advanced Placement and Credit
-Up to 8 units of credit may be applied toward graduation from tests administered outside the college, as
-described below.
-Beloit College ofers advanced placement or credit by examination for the College Entrance Examination
-Board’s Advanced Placement (AP) program. AP subject examination scores of 4 and 5 generally are
-awarded 1 unit (four semester hours) of credit and placement.
-Students who have taken the General Certifcate of Education advanced-level examination will receive 1 unit
-of credit for each passing grade (A, B, or C).
-Advanced standing also will be given to students who complete the International Baccalaureate (IB). One
-unit of credit will be given for each score of 4-7 for those who take the higher-level IB examinations, and for
-each score of 6 or 7 on a standard-level examination.
-The college reserves the right to review each test to determine its acceptability. The appropriate academic
-department will review it in consultation with the registrar. A full schedule of transfer credit policies is
-maintained at: www.beloit.edu/ofces/registrar/.
 Tuition and Fees
 Cost Breakdown for 2025-2026
 Item Cost Per Year
@@ -40,12 +25,8 @@ Room: $3,309 per semester/$6,618 per year. Students have a six-term housing requ
 Board: $2,745 per semester/$5,490 per year. A full meal plan is required of all frst-year students. Alternate
 meal plans are available at lower cost in subsequent years. A six-term dining requirement applies to all
 students.
-TABLE OF CONTENTS
-210
 
 [page 211]
-2025-2027 BELOIT COLLEGE CATALOG
-
 Payment
 The college will bill students approximately two months before the start of each term. Tuition, room, board,
 and special fees must be paid by the due date of each term or students and/or parents must enroll in a
@@ -87,12 +68,8 @@ Special Projects: $617 (2025)
 Internship: $617 (2025)
 Transcript: $5 each charged by Beloit College; additional processing fees also apply. Instructions for
 ordering transcripts may be found at www.beloit.edu/ofces/registrar/.
-TABLE OF CONTENTS
-211
 
 [page 212]
-BELOIT COLLEGE CATALOG 2025-2027
-
 Refunds
 The following refund schedule for tuition, room, board, and fees will determine the fnancial obligation of
 a student dropping all courses and withdrawing from the college during a regular credit term. The student
@@ -131,6 +108,3 @@ No refund after the 3rd day.
 a full week regardless of the number of days of class.
 Tuition Refund Insurance
 Tuition Refund Insurance is available for families to purchase prior to the beginning of the academic year.
-More information is available at Policies – Bursar & Tuition – Beloit College.
-TABLE OF CONTENTS
-212
