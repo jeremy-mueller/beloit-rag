@@ -4,7 +4,6 @@ source: https://www.beloit.edu/offices/registrar/course-registration/current-stu
 kind: html
 retrieved: 2026-10-29
 ------------------------------------------------------------
-Related Links
 Current Students
 How to Register for Courses Next Semester
 The Academic Calendar lists dates for each semester’s Advising Period and Online Registration process.
@@ -15,14 +14,24 @@ Registration is limited to a maximum of 4.75 units until the first day of classe
 Need help? Contact registrar@beloit.edu or come to the Registrar’s Office on the second floor of Pearsons Hall.
 Frequently Asked Questions
 Registration
+Does my advisor have to clear me for registration for the upcoming semester?
+Yes, your advisor will need to clear you in order for you to be able to register or add and drop courses for next semester. 
+What do I do if I have an accounting hold?
 Students with accounting holds cannot register for courses and should contact the Student Accounts Office to determine how to remove the hold. Accounting holds are visible in My Beloit through the Academics/My Current Holds option.
+I cannot sign up for a course, even though I have transfer credit that qualifies or the instructor's permission to enroll.
 Ask the professor to “authorize” your enrollment in My Beloit, which will then enable you to register yourself. After receiving course authorization, you can add the course with the override, or if you waitlisted yourself, you can go to courses/registration in My Beloit and convert your waitlisted status to enrolled. You do that either by clicking on the “move to current” message next to the waitlisted course, or, if that message doesn’t appear, then drop the course and re-add it (the authorization will allow you to do that).
+I see that some courses are listed in different ways. What does that mean? How do I know if a course is full?
 Some courses are listed in more than one way (from 2-4 different ways), e.g. Intro to Literary Study may be listed both as ENGL 190 and CPLT 190. These are called cross-listed courses. You may sign up for the course either way, but to see the combined total enrollment in the course, click on the course code link for course details and look at the enrollment information. The “parent” course controls the combined total enrollment. Both the “parent” and “child” courses show as “full” once the parent cap has been reached.
+I need to take a course, but it is currently full.
 You can add yourself to the waitlist for the course. If the instructor authorizes you to join, you still need to add yourself to the course. If the waitlist option is not available, contact the course instructor.
+How do I put myself on a waitlist or get off a waitlist?
+See this handy description of course authorization and waitlist . Note that during online registration waitlist is enabled for courses: if a course is full, you will be prompted and may put yourself on a waitlist for the course. 
+Online registration is closed. How do I drop/add courses?
 When online registration is closed, a Registrar’s Office staff member will have to process the change.
 First, consult with your primary (major or AMP) advisor.
 After you and your advisor have determined what course to take, fill out an add/drop card and obtain the required signatures and drop it off at the Registrar’s Office. Blanks cards are available on a table outside the office. Once both have confirmed, a Registrar’s Office staff member will process the add/drop.
 Specific Situations
+I want to sign up for a special project, an internship, or teaching assistant (TA) credit.
 Special Project: Download and complete a Special Project Contract form Consult with the faculty or staff member who will be your sponsor. Then fill out the form, including appropriate signatures and drop off the completed form at the Registrar’s Office. If for some reason you are unable to deliver the form, you may email it to registrar@beloit.edu, copying both the sponsor and your primary (major, Spark, or AMP) advisor, asking them to “reply all” to confirm approval. A Registrar’s Office staff member will register you and send you a confirmation copy of the contract.
 Internship: Complete an Internship Registration form for an internship (PRAX 200) or the internship workshop (PRAX 201, 301). See internship information and links to the forms
 Bring the completed PRAX 200, 201, or 301 registration form to the Registrar’s Office. If you need to submit the form electronically, you may email it as an attachment to your on-campus sponsor and copy your primary (major, SPARK, or AMP) advisor and registrar@beloit.edu. Ask your sponsor and advisor to “reply all” to confirm approval.
@@ -30,5 +39,9 @@ In either case, a Registrar’s Office staff member will register you for the in
 TA (Teaching Assistant) credit: Download and complete a Teaching Assistant (TA) Contract with appropriate signatures (advisor and instructor) and deliver it to the Registrar’s Office for processing.
 A Registrar’s Office staff member will register you for the TA credit. TA credit is registered with the same course prefix as the course for which you are TA-ing, and the course number is “395” (e.g. ENGL 395). The credit value is usually half the credit value of the course for which you are the TA. So, students earn earn .50 unit of credit as the TA for a 1.0 unit course.
 No more than a total of 1.0 unit of TA credit (395) may apply toward the 31 units of credit required for graduation.
+How many units can I take in a semester?
 Most students take 4.00-4.25 units per semester. The maximum number of units that you can take is 4.75 units, unless your GPA is at or above a 3.2. To determine whether or not you need to petition if you want to take more than 4.75 units, see the Course Overload Policy.
+I would like to repeat a course in the coming term.
 The Course Repeat Policy allows students to repeat if they have earned a grade of “D+” or lower. Students cannot register themselves for a repeated course and should contact the Registrar’s Office for assistance.
+I want to take a vacation term next term.
+Contact the Dean of Students Office deanstu@beloit.edu to schedule an exit interview. 

@@ -4,7 +4,6 @@ source: https://www.beloit.edu/offices/registrar/academic-calendars/final-exams/
 kind: html
 retrieved: 2026-10-29
 ------------------------------------------------------------
-Related Links
 Final Exams
 Final exam schedules and end of term assignments policy.
 Final Exam Schedules
