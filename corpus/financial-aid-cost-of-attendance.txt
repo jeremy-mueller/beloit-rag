@@ -4,7 +4,6 @@ source: https://www.beloit.edu/offices/financial-aid/cost-of-attendance/
 kind: html
 retrieved: 2026-10-29
 ------------------------------------------------------------
-Related Links
 Cost of Attendance
 The costs below represent the direct and indirect expenses associated with attending Beloit College for one academic year. 98% of our applicants are eligible for financial assistance to help lower these costs. Be sure to review the types of financial assistance available at Beloit College and how to apply. Please also check out our Net Price Calculator tool to see how much Beloit College would cost after financial aid is applied to the costs below.
 Costs for the 2027-28 Academic Year

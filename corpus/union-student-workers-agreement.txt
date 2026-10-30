@@ -4,7 +4,6 @@ source: https://www.beloit.edu/live/blurbs/agreement-beloit-college-and-beloit-s
 kind: html
 retrieved: 2026-10-29
 ------------------------------------------------------------
-Agreement between Beloit College and Beloit Student Workers United, 2025-2027
 AGREEMENT
 between
 BELOIT COLLEGE

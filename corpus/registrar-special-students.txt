@@ -4,7 +4,6 @@ source: https://www.beloit.edu/offices/registrar/course-registration/special-stu
 kind: html
 retrieved: 2026-10-29
 ------------------------------------------------------------
-Related Links
 Special Students
 Employees, dependents, community members, and high school students.
 Special students register for classes on a space-available basis after degree-seeking students select their courses. Beloit College cannot guarantee that you will be able to enroll in a course, but we hope that it works out for you and present these suggestions to help facilitate the process. Current courses offerings appear in My Beloit.
@@ -21,7 +20,11 @@ After signing up for a class:
 - Beloit’s bookstore recommends attending the first day of classes to obtain your syllabus before purchasing books, as some materials may be optional. Check the website for hours, policies, and information for purchasing books online.
 - Pay attention to add/drop dates, grading, and attendance policies. These are real classes, and if you stop attending without formally dropping the course, you will have a failing grade on your permanent record. Special students (including Early College Credit students) are subject to the same cancellation policies and fees as outlined in the course catalog.
 Details for Specific Programs
+Employees and Employee Dependents
+Fill out the Educational Assistance Program Request form  and return it to the Registrar’s Office. Tax returns are also required to demonstrate proof of dependency. Otherwise, you will receive a bill for the course. 
+Community Members and Continuing Education Program Students
 Please see our Tuition Information page to see if you are eligible to join our Continuing Education Program (CEP) and to qualify for the program’s tuition rate.
 As soon as you register for a course, arrangements for payment must be made in the Bursar’s Office. No financial aid is available for non-degree students.
+Early College Credit Students
 Please submit a copy of your high school transcript with your Special Student Application.
 A counselor in the Admissions Office and Olga Ogurtsova in the Modern Languages Department are your program advisors. Please contact them with questions. For more information, please visit our Early College Credit page.

@@ -5,62 +5,14 @@ kind: pdf pages 9-11
 retrieved: 2026-10-29
 ------------------------------------------------------------
 [page 9]
-2025-2027 BELOIT COLLEGE CATALOG
-
-Synthesis of Multiple Experiences
-Students connect one or more experiences beyond the traditional classroom with their academic
-development. These experiences may include co-curriculars, work, of-campus activities, campus or
-community leadership, and/or internships or of-campus study not formally arranged through Beloit College.
-In the synthesis, students refect on their experiences through a culminating project: a public presentation,
-exhibit, publication, or performance. Overseen by faculty or staf sponsor. Activities contributing to the
-synthesis should be the equivalent to at least 1 unit of credit, although earned credit is not required.
-Capstone Experience
-All students complete a capstone experience, typically in their fnal year. The primary goal of the capstone
-requirement is to help students apply and articulate what they have learned at Beloit College in ways that
-will make them better practitioners of the liberal arts. Capstone experiences emphasize integration and
-synthesis of theory, practical experience, and content of courses previously taken. Such experiences can be
-located within a major, but they can also be more broadly focused.
-Degrees Ofered
-The Bachelor of Arts and Bachelor of Science degrees are conferred by Beloit College upon completion of
-the prescribed requirements.
-The degree normally awarded is that of Bachelor of Arts. Those whose major feld of concentration is in the
-natural sciences (biology, biochemistry, chemistry, geology, and physics) may elect to receive the Bachelor
-of Science degree if they present a minimum of 4 units in science and/ or mathematics and/or computer
-science outside their major department.
-Students whose major feld of concentration is mathematics or computer science may elect to receive the
-Bachelor of Science degree if they present a minimum of 4 units in the natural sciences. Students whose
-major feld of concentration is health and society or health sciences may elect to receive the Bachelor
-of Science degree if they present a minimum of 8 units in the natural sciences and/or mathematics and/
-or computer science. This election is normally made at the time of the selection of the major feld of
-concentration and must be made prior to the beginning of the senior year.
-Degree Requirements
-A student may choose to be governed by the degree requirements enumerated in any one of the following
-three catalogs: a) the catalog at the time of entrance; b) the catalog at the time of declaration of major; or c)
-the catalog at the time of graduation.
-The following are the current requirements for the bachelor’s degree:
-1. Completion of the college’s writing requirement: All students must complete a minimum of 3 designated
-writing courses. (“W” in the online course schedule.) Courses used for the writing requirement may not
-be used for the quantitative reasoning or intercultural literacy requirements.
-2. Completion of the college’s quantitative reasoning requirement: All students must complete a minimum
-of 1 designated quantitative reasoning course. (“Q” in the online course schedule.) The course used for
-the quantitative reasoning requirement may not be used for the writing or intercultural literacy require-
-ments.
-3. Completion of the college’s intercultural literacy requirement: All students must complete a minimum
-of 1 designated intercultural literacy course. (“C” in the online course schedule.) The course used for the
-intercultural literacy requirement may not be used for the writing or quantitative reasoning requirements.
-Each of the above requirements must be satisfed with a diferent course.
 4. Completion of the college’s liberal arts breadth requirements.
 All students must complete the college’s liberal arts breadth requirements by completing at least .75 unit or
 2 courses. Each domain requirement must be satisfed by a diferent course prefx (e.g., PSYC, BIOL, HIST,
 CRIS). All requirements should normally be completed by the end of the student’s fourth semester. Students
 may not be granted junior status until they have completed these requirements.
-TABLE OF CONTENTS
-9
 
 [page 10]
-BELOIT COLLEGE CATALOG 2025-2027
-
-The fve domain requirements are:
+The five domain requirements are:
 a. Conceptual and Foundational Systems (“1S” in course descriptions),
 b. Artistic and Creative Practices (“2A” in course descriptions),
 c. Social Analysis of Human Behavior (“3B” in course descriptions),
@@ -105,12 +57,8 @@ c. No more than 13 units with any one course prefx may be counted toward the tot
 required for graduation.
 d. No credit shall be granted for repetition of a course for which credit has previously been earned,
 unless the course is designated as repeatable.
-TABLE OF CONTENTS
-10
 
 [page 11]
-2025-2027 BELOIT COLLEGE CATALOG
-
 e. No more than 4 units of coursework ofered in physical education, recreation, and athletics (PEC,
 PERC) may be counted toward the 31 units required for graduation. A maximum of 1 of these 4 units
 may be PERC coursework.
@@ -129,31 +77,3 @@ with the following limitations:
 • The intercultural literacy requirement must be fulflled at Beloit College,
 • AP/IB/GCE A-level credits may not be used to meet domain, skill, experience, or capstone
 requirements.
-Degree Expectations
-Students will be expected to complete at least 2 units (or equivalent non-credit-bearing activities) involving
-study or experience of a language and/or culture not their own, and of the relations between nations or
-other global entities in a global context.
-For a summary worksheet of degree requirement guidelines, see www.beloit.edu/ofces/registrar/.
-Academic Regulations
-General Course Information
-Numbering: Courses are numbered according to level of difculty, based on prior preparation and knowl-
-edge expected. Courses numbered in the 100 range require the least prior preparation, whereas courses
-numbered in the 300 range require the most.
-Unit of Credit: Course credit is recorded in units. Full unit courses meet for a minimum of 150 minutes per
-week for the semester or the equivalent amount of time if the course meets for less than the full semester.
-Some courses include additional time for class meetings, laboratories, studio, and other activities, but stu-
-dents do not earn additional units for these activities.
-For a one-unit course, students are expected to spend 12 hours per week in course-related activities,
-including work both in and out of the classroom, laboratory, or studio. Courses meeting for fewer hours each
-week or requiring less outside work may be assigned a fraction of a unit of credit.
-Most units of credit are awarded by the college in traditional courses as described above, but some are
-awarded in other types of courses or in less usual formats, such as of-campus study, special projects, etc.
-Units of credit for such experiences are determined considering contact hours, duration, and/or learning
-outcomes compared with a 1-unit course. Policy related to internship credit may be found on the Career
-Works website: www.beloit.edu/ofces/career-works/.
-Prerequisites: Prerequisites, if any, are listed at the end of each course description. Students may elect
-courses without having passed the stated prerequisite courses only with written approval of the instructor
-concerned. Students in good standing who do not qualify for a particular course on the basis of prerequi-
-sites may, with the instructor’s prior approval, audit the course without charge.
-TABLE OF CONTENTS
-11
