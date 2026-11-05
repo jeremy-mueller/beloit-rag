@@ -30,8 +30,6 @@ We check the quote against the chunk belonging to whichever document the model n
 
 **Denominator:** the answers that returned a quote. A correct refusal returns no quote, so we do not count it as a fidelity failure.
 
-> One to confirm with the instructor. The handout defines this in prose as "of the answers that returned a quote," but its sample code divides by every gold question. Those give us different denominators. Our 3 unanswerable questions should return no quote at all, so under the code version a perfect system scores 26 of 29 and looks broken. We have used the prose definition.
-
 ### 3. Correctness
 
 Of all 29 gold questions, how many answers state the same fact we wrote down in advance.
