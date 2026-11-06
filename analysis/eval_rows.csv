@@ -1,0 +1,30 @@
+q,answerable,hit,returned_quote,quote_found,correct,refused
+What is the minimum number of units a student must be registered for to be considered full-time?,True,1.0,1,1,1,0
+Which students are exempt from the requirement to live in College housing during their first six credit terms?,True,1.0,1,1,1,0
+Who must approve an emotional support animal before a student brings it to campus?,True,1.0,1,1,1,0
+How many hours per week may an hourly student worker work while classes are in session?,True,1.0,1,1,1,0
+"A student misses two continuous weeks of a course and is administratively dropped. What happens to their course record, and what happens to their financial aid?",True,0.0,0,0,0,1
+"A transfer student arrives with 45 semester hours from a community college and three AP exams scored 4 or 5. How much of that counts toward a Beloit degree, and are they required to live on campus?",True,0.0,0,0,0,1
+"A student withdraws from the college during the third week of the semester. How much tuition is refunded, and what happens to their institutional scholarship?",True,0.0,0,0,0,1
+Can I still drop this class without it showing up on my transcript?,True,1.0,1,1,1,0
+Can I keep my cat in my room if it's an emotional support animal?,True,1.0,1,1,1,0
+How much does a student parking permit cost?,False,,0,0,1,1
+"How many total units of earned credit are required to graduate, and how many of those must be completed at Beloit College?",True,1.0,1,1,1,0
+What is the maximum number of units with any one course prefix that may count toward the 31 units required for graduation?,True,1.0,1,1,1,0
+"How many units of physical education, recreation, and athletics coursework may count toward the 31 units required for graduation?",True,1.0,1,1,1,0
+"How long does a student have to finish an incomplete, and what happens if they don't?",True,1.0,1,1,1,0
+"What grade point values does Beloit assign to an A−, a B+, and a C−?",True,1.0,1,1,1,0
+What cumulative GPA is required to graduate summa cum laude?,True,1.0,1,1,1,0
+What term GPA puts a student on academic warning rather than academic probation?,True,1.0,1,1,0,0
+"How much does an Acadeum course cost, and how many Beloit units does a 3-semester-credit Acadeum course earn?",True,1.0,1,1,1,0
+Can I take an Acadeum course during the spring semester?,True,1.0,1,1,1,0
+"A student has 24 earned units and wants to take a course at another college next term. What class year are they, and how much credit can they transfer?",True,0.0,0,0,0,1
+A student earns a 3.5 GPA this semester but has an incomplete in one course. Can they make the dean's list?,True,1.0,1,1,1,0
+"A first-year student arrives with AP Statistics scored 5 and AP Psychology scored 4. What credit do they get, and does that satisfy the quantitative reasoning requirement?",True,0.0,1,1,1,0
+"A student fails a course in their first semester and ends with a 0.9 cumulative GPA. Can they repeat the course, and what is their academic standing?",True,0.0,0,0,0,1
+"Can a transfer student use courses from their previous college to satisfy Beloit's writing, quantitative reasoning, and intercultural literacy requirements?",True,0.0,1,1,1,0
+"I bombed a class last year. If I retake it, does the old grade still count against my GPA?",True,1.0,1,1,1,0
+Can my parents see my grades?,True,0.0,1,1,0,0
+I took an online class over the summer at my community college. Will it count?,True,1.0,1,1,1,0
+What's the Wi-Fi password for the residence halls?,False,,0,0,0,1
+What's the average starting salary for Beloit graduates?,False,,0,0,0,1
